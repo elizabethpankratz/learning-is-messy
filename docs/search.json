@@ -10,118 +10,6 @@
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "What is learning?",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "The cognitive process of learning, and how to facilitate it",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Anderson, L. W., & Krathwohl, D. R. (2001). A taxonomy for\nlearning, teaching, and assessing: A revision of\nBloom’s taxonomy of educational objectives. Longman.",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "index.html#bios",
-    "href": "index.html#bios",
-    "title": "Learning is messy, performance is beautiful",
-    "section": "Bios",
-    "text": "Bios\nLaura Pankratz lorem ipsum.\nDr. Elizabeth Pankratz lorem ipsum.",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "index.html#authors-contributions",
-    "href": "index.html#authors-contributions",
-    "title": "Learning is messy, performance is beautiful: A teaching manifesto",
-    "section": "Authors’ contributions",
-    "text": "Authors’ contributions\nLaura Pankratz lorem ipsum.\nElizabeth Pankratz lorem ipsum.",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "index.html#authors-acknowledgements",
-    "href": "index.html#authors-acknowledgements",
-    "title": "Learning is messy, performance is beautiful: A teaching manifesto",
-    "section": "Authors’ acknowledgements",
-    "text": "Authors’ acknowledgements\nLaura Pankratz lorem ipsum.\nElizabeth Pankratz lorem ipsum.",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "index.html#contributions",
-    "href": "index.html#contributions",
-    "title": "Learning is messy, performance is beautiful",
-    "section": "Contributions",
-    "text": "Contributions\nLaura Pankratz lorem ipsum.\nElizabeth Pankratz lorem ipsum.",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "Learning is messy, performance is beautiful",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nLaura Pankratz lorem ipsum.\nElizabeth Pankratz lorem ipsum.",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "intro-learning.html",
-    "href": "intro-learning.html",
-    "title": "What is learning?",
-    "section": "",
-    "text": "Lorem ipsum.",
-    "crumbs": [
-      "What is learning?"
-    ]
-  },
-  {
-    "objectID": "intro-cognitive.html",
-    "href": "intro-cognitive.html",
-    "title": "The cognitive process of learning, and how to facilitate it",
-    "section": "",
-    "text": "Lorem ipsum.",
-    "crumbs": [
-      "The cognitive process of learning, and how to facilitate it"
-    ]
-  },
-  {
-    "objectID": "intro-behavioural.html",
-    "href": "intro-behavioural.html",
-    "title": "The behavioural outcomes of learning, and how to assess them",
-    "section": "",
-    "text": "Lorem ipsum.",
-    "crumbs": [
-      "The behavioural outcomes of learning, and how to assess them"
-    ]
-  },
-  {
     "objectID": "part1/intro-learning.html",
     "href": "part1/intro-learning.html",
     "title": "What is learning?",
@@ -132,43 +20,11 @@
     ]
   },
   {
-    "objectID": "part2/intro-cognitive.html",
-    "href": "part2/intro-cognitive.html",
-    "title": "The cognitive process of learning, and how to facilitate it",
-    "section": "",
-    "text": "Lorem ipsum.",
-    "crumbs": [
-      "The cognitive process of learning, and how to facilitate it"
-    ]
-  },
-  {
-    "objectID": "part1/learning-is-messy.html",
-    "href": "part1/learning-is-messy.html",
-    "title": "1  Learning is messy, performance is beautiful",
-    "section": "",
-    "text": "Lorem ipsum.",
-    "crumbs": [
-      "What is learning?",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Learning is messy, performance is beautiful</span>"
-    ]
-  },
-  {
-    "objectID": "part1/learning-takes-energy.html",
-    "href": "part1/learning-takes-energy.html",
-    "title": "2  Learning takes energy",
-    "section": "",
-    "text": "Lorem ipsum.",
-    "crumbs": [
-      "What is learning?",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Learning takes energy</span>"
-    ]
-  },
-  {
     "objectID": "part1/learning-taxonomies.html",
     "href": "part1/learning-taxonomies.html",
     "title": "1  Taxonomies of learning",
     "section": "",
-    "text": "1.1 Bloom’s taxonomy\nUpdated by Anderson & Krathwohl (2001).\nAnderson and Krathwohl’s (2001) updated version.\nUpdates (Anderson & Krathwohl, 2001).\nIn-text page reference to Anderson & Krathwohl (2001, p. 1).\nIn-paren page reference (Anderson & Krathwohl, 2001, pp. 1–5).",
+    "text": "1.1 Bloom’s taxonomy\nUpdated by Anderson & Krathwohl (2001).\nAnderson and Krathwohl’s (2001) updated version.\nUpdates (Anderson & Krathwohl, 2001).\nIn-text page reference to Anderson & Krathwohl (2001, p. 1).\nIn-paren pageref (Anderson & Krathwohl, 2001, pp. 1–5).",
     "crumbs": [
       "What is learning?",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Taxonomies of learning</span>"
@@ -186,13 +42,13 @@
     ]
   },
   {
-    "objectID": "part3/intro-behavioural.html",
-    "href": "part3/intro-behavioural.html",
-    "title": "The behavioural outcomes of learning, and how to assess them",
+    "objectID": "part2/intro-cognitive.html",
+    "href": "part2/intro-cognitive.html",
+    "title": "The cognitive process of learning, and how to facilitate it",
     "section": "",
     "text": "Lorem ipsum.",
     "crumbs": [
-      "The behavioural outcomes of learning, and how to assess them"
+      "The cognitive process of learning, and how to facilitate it"
     ]
   },
   {
@@ -251,14 +107,13 @@
     ]
   },
   {
-    "objectID": "part3/summative.html",
-    "href": "part3/summative.html",
-    "title": "13  Considerations around summative assessment",
+    "objectID": "part3/intro-behavioural.html",
+    "href": "part3/intro-behavioural.html",
+    "title": "The behavioural outcomes of learning, and how to assess them",
     "section": "",
     "text": "Lorem ipsum.",
     "crumbs": [
-      "The behavioural outcomes of learning, and how to assess them",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Considerations around summative assessment</span>"
+      "The behavioural outcomes of learning, and how to assess them"
     ]
   },
   {
@@ -325,6 +180,27 @@
     "crumbs": [
       "The behavioural outcomes of learning, and how to assess them",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Ideas for formative assessment</span>"
+    ]
+  },
+  {
+    "objectID": "part3/summative.html",
+    "href": "part3/summative.html",
+    "title": "13  Considerations around summative assessment",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Considerations around summative assessment</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Anderson, L. W., & Krathwohl, D. R. (2001). A taxonomy for\nlearning, teaching, and assessing: A revision of\nBloom’s taxonomy of educational objectives. Longman.",
+    "crumbs": [
+      "References"
     ]
   }
 ]
