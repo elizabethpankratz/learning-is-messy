@@ -1,3 +1,9 @@
 # Considerations around summative assessment
 
-Lorem ipsum.
+No more learning after grades are delivered.
+
+Dichotomous vs. partial marks.
+
+Things to think about when building and using scoring rubrics:
+- n categories maps to ease of pass
+- qualitative descriptions should focus on what’s present, not what’s absent

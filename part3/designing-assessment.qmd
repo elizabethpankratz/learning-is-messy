@@ -1,3 +1,13 @@
 # Designing an assessment
 
-Lorem ipsum.
+(whether formative or summative)
+
+Debunk assumption that % correct answers = % material that somebody knows.
+
+An assessment should not penalise a student for a particular mistake more than once.
+
+Assessment should be fair, reliable, and valid.
+
+Assuming the goal of an assessment is to generate a ranking of students, then the task of the test designer is to produce questions that discriminate well between students.
+
+Blueprinting a test using a 2D matrix of content * cognitive level.

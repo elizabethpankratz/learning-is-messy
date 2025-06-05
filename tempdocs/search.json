@@ -12,33 +12,34 @@
   {
     "objectID": "part1/intro-learning.html",
     "href": "part1/intro-learning.html",
-    "title": "What is learning?",
+    "title": "1  Defining learning",
     "section": "",
-    "text": "Learning is a process, a change in cognition. As educators, we try to facilitate this cognitive process (our focus in Part 2 of this book). But we can’t see into learners’ minds to know what has actually changed. All we can access is what learners do with what they’ve learned. Based on their behaviour, we can only make inferences about their learning (our focus in Part 3 of this book).\nIn very broad terms, learning is the process of building a consistent response to a stimulus. You know you’ve learned when you respond to a stimulus in a new and consistent way.\nThis definition may sound deterministic, as if a learner’s response to some stimulus always has to be the same, but this doesn’t need to be the case. For example, different levels of learners may show different kinds of consistent responses.\n\nA novice learner will have a memorised response to a stimulus. This response is consistent, but it’s not nuanced nor connected to other ideas. [EXAMPLE?]\nAn intermediate learner knows that there are nuances behind an idea and connections to be made, but might not be able to convey them precisely. [EXAMPLE?]\nA master learner knows the nuances and connections and chooses the response that’s most appropriate given the context. [EXAMPLE?]\n\nEven though these responses all reflect different degrees or levels of cognition, they all still reflect learning. On the next page, we discuss two common ways of conceptualising these different levels of cognition: Bloom’s taxonomy and the SOLO taxonomy.",
+    "text": "Learning is a process, a change in cognition. As educators, we try to facilitate this cognitive process (our focus in Part 2 of this book). But we can’t see into learners’ minds to know what has actually changed. All we can access is what learners do with what they’ve learned. Based on their behaviour, we can only make inferences about their learning (our focus in Part 3 of this book).\nIn very broad terms, learning can be defined as the process of building a consistent response to a stimulus. You know you’ve learned when you respond to a stimulus in a new and consistent way. And different levels of learners may show different kinds of consistent responses.\n\nA novice learner will have a memorised response to a stimulus. This response is consistent, but it’s not nuanced nor connected to other ideas. [EXAMPLE?]\nAn intermediate learner knows that there are nuances behind an idea and connections to be made, but might not be able to convey them precisely. [EXAMPLE?]\nA master learner knows the nuances and connections and chooses the response that’s most appropriate given the context. [EXAMPLE?]\n\nEven though these responses all reflect different degrees or levels of cognition, they all still reflect learning. On the next page, we discuss two common ways of conceptualising these different levels of cognition: Bloom’s taxonomy and the SOLO taxonomy.",
     "crumbs": [
-      "What is learning?"
+      "What is learning?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Defining learning</span>"
     ]
   },
   {
     "objectID": "part1/learning-taxonomies.html",
     "href": "part1/learning-taxonomies.html",
-    "title": "1  Taxonomies of learning",
+    "title": "2  Taxonomies of learning",
     "section": "",
-    "text": "1.1 Bloom’s taxonomy\nUpdated by Anderson & Krathwohl (2001).\nAnderson and Krathwohl’s (2001) updated version.\nUpdates (Anderson & Krathwohl, 2001).\nIn-text page reference to Anderson & Krathwohl (2001, p. 1).\nIn-paren pageref (Anderson & Krathwohl, 2001, pp. 1–5).",
+    "text": "2.1 Bloom’s taxonomy\nProbably the most widespread framework for classifying levels of cognition in learning is Bloom’s taxonomy (Bloom et al., 1956), more recently refined by Anderson & Krathwohl (2001). Anderson and Krathwohl frame six levels of cognition as actions, here ordered from easiest to most demanding:\nEach of these actions implicates a different degree of cognitive involvement, but they don’t directly describe the kind of connections that the learner is making behind the scenes. For that reason, Laura prefers to work with the SOLO taxonomy.",
     "crumbs": [
       "What is learning?",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Taxonomies of learning</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Taxonomies of learning</span>"
     ]
   },
   {
     "objectID": "part1/learning-taxonomies.html#the-solo-taxonomy",
     "href": "part1/learning-taxonomies.html#the-solo-taxonomy",
-    "title": "1  Taxonomies of learning",
-    "section": "1.2 The SOLO taxonomy",
-    "text": "1.2 The SOLO taxonomy\nLorem ipsum.\n\n\n\n\nAnderson, L. W., & Krathwohl, D. R. (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives. Longman.",
+    "title": "2  Taxonomies of learning",
+    "section": "2.2 The SOLO taxonomy",
+    "text": "2.2 The SOLO taxonomy\nSOLO stands for “Structure of the Observed Learning Outcome”. This taxonomy was developed by Biggs & Collis (1982), and it specifies five levels of increasingly complex thinking and understanding:\n\nPre-structural: The learner hasn’t started learning.\nUni-structural: The learner can describe an idea or do a single-step procedure.\nMulti-structural: The learner has a grasp on several ideas but doesn’t know how they fit together.\nRelational: The learner can link, classify, sequence, compare, and contrast their ideas.\nExtended abstract: The learner can generalise from their ideas and make predictions about new contexts.\n\nWhere Bloom’s taxonomy describes actions, the SOLO taxonomy describes how ideas are connected in the mind of a learner.\nThe web site Inspiring Inquiry is a very good resource for exploring the SOLO taxonomy in greater depth.\nWe’ll come back to these levels of cognition again and again throughout this book, because Laura uses the SOLO taxonomy in many different areas of her teaching. For example:\n\nto interpret the level of questions from students,\nto decide on the appropriate level of answer to provide,\nto choose the scope of a task, and\nto determine expectations of an assessment or a course.\n\n\n\n\n\n\n\n\n\n\nAnderson, L. W., & Krathwohl, D. R. (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives. Longman.\n\n\nBiggs, J. B., & Collis, K. F. (1982). Evaluating the quality of learning: The SOLO taxonomy (Structure of the Observed Learning Outcome). Academic Press, Inc.\n\n\nBloom, B., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). Taxonomy of educational objectives: The classification of educational goals. Longman.",
     "crumbs": [
       "What is learning?",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Taxonomies of learning</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Taxonomies of learning</span>"
     ]
   },
   {
@@ -54,56 +55,56 @@
   {
     "objectID": "part2/learning-is-messy.html",
     "href": "part2/learning-is-messy.html",
-    "title": "2  Learning is messy, performance is beautiful",
+    "title": "3  Learning is messy, performance is beautiful",
     "section": "",
     "text": "Lorem ipsum.",
     "crumbs": [
       "The cognitive process of learning, and how to facilitate it",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Learning is messy, performance is beautiful</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Learning is messy, performance is beautiful</span>"
     ]
   },
   {
     "objectID": "part2/learning-takes-energy.html",
     "href": "part2/learning-takes-energy.html",
-    "title": "3  Learning takes energy",
+    "title": "4  Learning takes energy",
     "section": "",
     "text": "Lorem ipsum.",
     "crumbs": [
       "The cognitive process of learning, and how to facilitate it",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Learning takes energy</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Learning takes energy</span>"
     ]
   },
   {
     "objectID": "part2/learning-by-doing.html",
     "href": "part2/learning-by-doing.html",
-    "title": "4  Learning happens by doing",
+    "title": "5  Learning happens by doing",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "Overview of some hands-on activities.\nNod to the PI resource with more.",
     "crumbs": [
       "The cognitive process of learning, and how to facilitate it",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Learning happens by doing</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning happens by doing</span>"
     ]
   },
   {
     "objectID": "part2/interact-w-students.html",
     "href": "part2/interact-w-students.html",
-    "title": "5  Interacting with students",
+    "title": "6  Interacting with students",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "Some things to think about:\nRespect the student.\nBuild students’ trust in you. Nurture that trust, and spend it judiciously.\nWelcome questions from students. Really listen to the questions.\nBe intentional about the questions that you ask students.",
     "crumbs": [
       "The cognitive process of learning, and how to facilitate it",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Interacting with students</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Interacting with students</span>"
     ]
   },
   {
     "objectID": "part2/designing-course.html",
     "href": "part2/designing-course.html",
-    "title": "6  Designing a course",
+    "title": "7  Designing a course",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "Things to think about.\nKnow why you’re including each piece of material.\nBad practice: silo-ing.\nAnti-silo: interleave material.\nAnti-silo: Velcro teaching.",
     "crumbs": [
       "The cognitive process of learning, and how to facilitate it",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Designing a course</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Designing a course</span>"
     ]
   },
   {
@@ -119,78 +120,78 @@
   {
     "objectID": "part3/more-than-grades.html",
     "href": "part3/more-than-grades.html",
-    "title": "7  More than grades",
+    "title": "8  More than grades",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "Assessment is about checking in on how students are doing in response to a context or a stimulus.\nAssessment should be happening all the time.",
     "crumbs": [
       "The behavioural outcomes of learning, and how to assess them",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>More than grades</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>More than grades</span>"
     ]
   },
   {
     "objectID": "part3/designing-assessment.html",
     "href": "part3/designing-assessment.html",
-    "title": "8  Designing an assessment",
+    "title": "9  Designing an assessment",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "(whether formative or summative)\nDebunk assumption that % correct answers = % material that somebody knows.\nAn assessment should not penalise a student for a particular mistake more than once.\nAssessment should be fair, reliable, and valid.\nAssuming the goal of an assessment is to generate a ranking of students, then the task of the test designer is to produce questions that discriminate well between students.\nBlueprinting a test using a 2D matrix of content * cognitive level.",
     "crumbs": [
       "The behavioural outcomes of learning, and how to assess them",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Designing an assessment</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Designing an assessment</span>"
     ]
   },
   {
     "objectID": "part3/designing-question.html",
     "href": "part3/designing-question.html",
-    "title": "9  Designing individual questions",
+    "title": "10  Designing individual questions",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "Make sure the question is absolutely clear. Tell students exactly what their task is.\nAsk the question in the format that makes sense for that content.\nThe right measure for “is a question good” is “does the question discriminate well”, not “do students perform well on the question”.",
     "crumbs": [
       "The behavioural outcomes of learning, and how to assess them",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Designing individual questions</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Designing individual questions</span>"
     ]
   },
   {
     "objectID": "part3/designing-mcq.html",
     "href": "part3/designing-mcq.html",
-    "title": "10  Designing multiple choice questions",
+    "title": "11  Designing multiple choice questions",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "Easier than student-generated response (but the consequent higher rate of success doesn’t mean students know more!)\nThe top students should be able to read the stem, have an answer, and go hunting for that answer.\nWhat MC questions are actually testing is the information that the test-taker draws on to choose between the options.\nNod to some item response theory resources on IIC, p diff, etc.",
     "crumbs": [
       "The behavioural outcomes of learning, and how to assess them",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Designing multiple choice questions</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Designing multiple choice questions</span>"
     ]
   },
   {
     "objectID": "part3/designing-sgr.html",
     "href": "part3/designing-sgr.html",
-    "title": "11  Designing student-generated response tasks",
+    "title": "12  Designing student-generated response tasks",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "Can span many possible kinds of response.\nHarder than multiple choice because it forces production with no clues beyond the prompt.\nStandards should differ depending on whether item was produced under duress or not.\nStudents should be familiar with scoring criteria before and during response.",
     "crumbs": [
       "The behavioural outcomes of learning, and how to assess them",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Designing student-generated response tasks</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Designing student-generated response tasks</span>"
     ]
   },
   {
     "objectID": "part3/formative.html",
     "href": "part3/formative.html",
-    "title": "12  Ideas for formative assessment",
+    "title": "13  Ideas for formative assessment",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "Overview of a few possibilities (MC with certainty ratings, peer feedback, responding with colour-coded highlights).",
     "crumbs": [
       "The behavioural outcomes of learning, and how to assess them",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Ideas for formative assessment</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Ideas for formative assessment</span>"
     ]
   },
   {
     "objectID": "part3/summative.html",
     "href": "part3/summative.html",
-    "title": "13  Considerations around summative assessment",
+    "title": "14  Considerations around summative assessment",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "No more learning after grades are delivered.\nDichotomous vs. partial marks.\nThings to think about when building and using scoring rubrics: - n categories maps to ease of pass - qualitative descriptions should focus on what’s present, not what’s absent",
     "crumbs": [
       "The behavioural outcomes of learning, and how to assess them",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Considerations around summative assessment</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Considerations around summative assessment</span>"
     ]
   },
   {
@@ -198,9 +199,20 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Anderson, L. W., & Krathwohl, D. R. (2001). A taxonomy for\nlearning, teaching, and assessing: A revision of\nBloom’s taxonomy of educational objectives. Longman.",
+    "text": "Anderson, L. W., & Krathwohl, D. R. (2001). A taxonomy for\nlearning, teaching, and assessing: A revision of\nBloom’s taxonomy of educational objectives. Longman.\n\n\nBiggs, J. B., & Collis, K. F. (1982). Evaluating the quality of\nlearning: The SOLO taxonomy (Structure of the\nObserved Learning Outcome). Academic Press, Inc.\n\n\nBloom, B., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl,\nD. R. (1956). Taxonomy of educational objectives: The\nclassification of educational goals. Longman.",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "part1/learning-taxonomies.html#blooms-taxonomy",
+    "href": "part1/learning-taxonomies.html#blooms-taxonomy",
+    "title": "2  Taxonomies of learning",
+    "section": "",
+    "text": "Remember\nUnderstand\nApply\nAnalyze\nEvaluate\nCreate",
+    "crumbs": [
+      "What is learning?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Taxonomies of learning</span>"
     ]
   }
 ]

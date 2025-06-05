@@ -1,3 +1,9 @@
 # Designing student-generated response tasks
 
-Lorem ipsum.
+Can span many possible kinds of response.
+
+Harder than multiple choice because it forces production with no clues beyond the prompt.
+
+Standards should differ depending on whether item was produced under duress or not.
+
+Students should be familiar with scoring criteria before and during response.

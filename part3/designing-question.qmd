@@ -1,3 +1,7 @@
 # Designing individual questions
 
-Lorem ipsum.
+Make sure the question is absolutely clear. Tell students exactly what their task is.
+
+Ask the question in the format that makes sense for that content.
+
+The right measure for “is a question good” is “does the question discriminate well”, not “do students perform well on the question”.

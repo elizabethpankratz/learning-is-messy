@@ -1,3 +1,11 @@
 # Designing a course
 
-Lorem ipsum.
+Things to think about.
+
+Know why you're including each piece of material.
+
+Bad practice: silo-ing.
+
+Anti-silo: interleave material.
+
+Anti-silo: Velcro teaching.

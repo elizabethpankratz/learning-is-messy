@@ -1,3 +1,5 @@
 # Learning happens by doing
 
-Lorem ipsum.
+Overview of some hands-on activities.
+
+Nod to the PI resource with more.

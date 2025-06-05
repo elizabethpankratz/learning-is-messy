@@ -1,4 +1,4 @@
-# What is learning?
+# Defining learning
 
 Learning is a process, a change in cognition.
 As educators, we try to facilitate this cognitive process (our focus in [Part 2](../part2/intro-cognitive.qmd) of this book).
@@ -6,11 +6,9 @@ But we can't see into learners' minds to know what has actually changed.
 All we can access is what learners *do* with what they've learned.
 Based on their behaviour, we can only make inferences about their learning (our focus in [Part 3](../part3/intro-behavioural.qmd) of this book).
 
-In very broad terms, learning is the process of building a consistent response to a stimulus.
+In very broad terms, learning can be defined as the process of building a consistent response to a stimulus.
 You know you've learned when you respond to a stimulus in a new and consistent way.
-
-This definition may sound deterministic, as if a learner's response to some stimulus always has to be the same, but this doesn't need to be the case.
-For example, different levels of learners may show different kinds of consistent responses.
+And different levels of learners may show different kinds of consistent responses.
 
 - A novice learner will have a memorised response to a stimulus.
 This response is consistent, but it's not nuanced nor connected to other ideas.

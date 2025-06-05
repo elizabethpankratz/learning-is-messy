@@ -16,11 +16,12 @@ book:
   chapters:
     - index.qmd
     
-    - part: part1/intro-learning.qmd
+    - part: "What is learning?"
       chapters:
+      - part1/intro-learning.qmd
       - part1/learning-taxonomies.qmd
     
-    - part: part2/intro-cognitive.qmd
+    - part: "The cognitive process of learning, and how to facilitate it"
       chapters:
       - part2/learning-is-messy.qmd
       - part2/learning-takes-energy.qmd
@@ -28,7 +29,7 @@ book:
       - part2/interact-w-students.qmd
       - part2/designing-course.qmd
       
-    - part: part3/intro-behavioural.qmd
+    - part: "The behavioural outcomes of learning, and how to assess them"
       chapters:
       - part3/more-than-grades.qmd
       - part3/designing-assessment.qmd

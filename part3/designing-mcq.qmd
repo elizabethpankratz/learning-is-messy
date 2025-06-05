@@ -1,3 +1,9 @@
 # Designing multiple choice questions
 
-Lorem ipsum.
+Easier than student-generated response (but the consequent higher rate of success doesn’t mean students know more!)
+
+The top students should be able to read the stem, have an answer, and go hunting for that answer.
+
+What MC questions are actually testing is the information that the test-taker draws on to choose between the options.
+
+Nod to some item response theory resources on IIC, p diff, etc.

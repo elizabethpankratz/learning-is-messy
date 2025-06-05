@@ -11,8 +11,8 @@ We see learning as a cognitive process with behavioural outcomes.
 This book is built around these key ideas.
 
 - Part 1: [What is learning?](part1/intro-learning.qmd)
-- Part 2: [The cognitive process of learning, and how to facilitate it](part2/intro-cognitive.qmd)
-- Part 3: [The behavioural outcomes of learning, and how to assess them](part3/intro-behavioural.qmd)
+- Part 2: [The cognitive process of learning, and how to facilitate it](part2/learning-is-messy.qmd)
+- Part 3: [The behavioural outcomes of learning, and how to assess them](part3/more-than-grades.qmd)
 
 
 # Bios

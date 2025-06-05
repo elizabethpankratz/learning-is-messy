@@ -2,17 +2,51 @@
 
 ## Bloom's taxonomy
 
-Updated by @AndersonKrathwohl2001.
+Probably the most widespread framework for classifying levels of cognition in learning is Bloom's taxonomy [@BloomEtAl1956], more recently refined by @AndersonKrathwohl2001.
+Anderson and Krathwohl frame six levels of cognition as actions, here ordered from easiest to most demanding:
 
-Anderson and Krathwohl's [-@AndersonKrathwohl2001] updated version.
+- Remember
+- Understand
+- Apply
+- Analyze
+- Evaluate
+- Create
 
-Updates [@AndersonKrathwohl2001].
-
-In-text page reference to @AndersonKrathwohl2001 [p. 1].
-
-In-paren pageref [@AndersonKrathwohl2001, pp. 1–5].
+Each of these actions implicates a different degree of cognitive involvement, but they don't directly describe the kind of connections that the learner is making behind the scenes.
+For that reason, Laura prefers to work with the SOLO taxonomy.
 
 
 ## The SOLO taxonomy
 
-Lorem ipsum.
+SOLO stands for "Structure of the Observed Learning Outcome".
+This taxonomy was developed by @BiggsCollis1982, and it specifies five levels of increasingly complex thinking and understanding:
+
+- **Pre-structural:** The learner hasn't started learning.
+- **Uni-structural:** The learner can describe an idea or do a single-step procedure.
+- **Multi-structural:** The learner has a grasp on several ideas but doesn't know how they fit together.
+- **Relational:** The learner can link, classify, sequence, compare, and contrast their ideas.
+- **Extended abstract:** The learner can generalise from their ideas and make predictions about new contexts.
+
+Where Bloom's taxonomy describes actions, the SOLO taxonomy describes how ideas are connected in the mind of a learner.
+
+[The web site Inspiring Inquiry](https://www.inspiringinquiry.com/learningteaching/toolsstrategies/solo-taxonomy) is a very good resource for exploring the SOLO taxonomy in greater depth.
+
+We'll come back to these levels of cognition again and again throughout this book, because Laura uses the SOLO taxonomy in many different areas of her teaching.
+For example:
+
+- to interpret the level of questions from students,
+- to decide on the appropriate level of answer to provide,
+- to choose the scope of a task, and
+- to determine expectations of an assessment or a course.
+
+
+
+<!-- Updated by @AndersonKrathwohl2001. -->
+
+<!-- Anderson and Krathwohl's [-@AndersonKrathwohl2001] updated version. -->
+
+<!-- Updates [@AndersonKrathwohl2001]. -->
+
+<!-- In-text page reference to @AndersonKrathwohl2001 [p. 1]. -->
+
+<!-- In-paren pageref [@AndersonKrathwohl2001, pp. 1–5]. -->
