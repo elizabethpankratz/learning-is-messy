@@ -1,0 +1,330 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning is messy, performance is beautiful",
+    "section": "",
+    "text": "Preface\nThis book is a memoir and a manifesto. The content comes from Laura Pankratz’ many years of experience as an educator, and the text is written by Laura’s daughter, Dr. Elizabeth Pankratz.\nWe see learning as a cognitive process with behavioural outcomes. This book is built around these key ideas.\n\nPart 1: What is learning?\nPart 2: The cognitive process of learning, and how to facilitate it\nPart 3: The behavioural outcomes of learning, and how to assess them\n\n\n\nBios\nLaura Pankratz is an educator with more than 30 years of working with students and teachers. One of her principles of education is that learning is messy. Her passion is finding the nugget of value in that mess and then helping the learner to build around it. Laura’s career included teaching grades nine to 12, working with Alberta Education setting the Physics 30 Diploma Examination, two years as Teacher-in-Residence at the Perimeter Institute for Theoretical Physics, and many presentations at science councils across Canada and around the world. She looks forward to learning with participants at every opportunity.\nDr. Elizabeth Pankratz (personal website) is also an educator. She will soon work as a Lecturer (roughly equivalent to the North American assistant professor) at the University of Edinburgh, where her focus will be helping psychology students build their confidence and skills in statistical analysis. Her favourite moments are when a student overcomes their wariness of statistics and discovers that they’re capable of more than they thought.\n\n\nAcknowledgements\nI, Laura, want to thank …\nI, Elizabeth, want to thank Laura! Growing up as Laura’s daughter led me to believe that many aspects of good teaching were simple common sense that everybody knew, but nope—I was just blessed to have an amazing pedagogue for a mother.\n\n\nTo cite this work\nAPA 7:\n\nPankratz, L., & Pankratz, E. (2025). Learning is messy, performance is beautiful. [Online book]. https://elizabethpankratz.github.io/learning-is-messy/\n\nBibTeX:\n@book{PankratzPankratz2025,\n  title = {Learning is messy, performance is beautiful},\n  author = {Pankratz, Laura and Pankratz, Elizabeth},\n  year = {2025},\n  publisher = {[Online book]}\n}",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "What is learning?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Anderson, L. W., & Krathwohl, D. R. (2001). A taxonomy for\nlearning, teaching, and assessing: A revision of\nBloom’s taxonomy of educational objectives. Longman.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html#bios",
+    "href": "index.html#bios",
+    "title": "Learning is messy, performance is beautiful",
+    "section": "Bios",
+    "text": "Bios\nLaura Pankratz lorem ipsum.\nDr. Elizabeth Pankratz lorem ipsum.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#authors-contributions",
+    "href": "index.html#authors-contributions",
+    "title": "Learning is messy, performance is beautiful: A teaching manifesto",
+    "section": "Authors’ contributions",
+    "text": "Authors’ contributions\nLaura Pankratz lorem ipsum.\nElizabeth Pankratz lorem ipsum.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#authors-acknowledgements",
+    "href": "index.html#authors-acknowledgements",
+    "title": "Learning is messy, performance is beautiful: A teaching manifesto",
+    "section": "Authors’ acknowledgements",
+    "text": "Authors’ acknowledgements\nLaura Pankratz lorem ipsum.\nElizabeth Pankratz lorem ipsum.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#contributions",
+    "href": "index.html#contributions",
+    "title": "Learning is messy, performance is beautiful",
+    "section": "Contributions",
+    "text": "Contributions\nLaura Pankratz lorem ipsum.\nElizabeth Pankratz lorem ipsum.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Learning is messy, performance is beautiful",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nLaura Pankratz lorem ipsum.\nElizabeth Pankratz lorem ipsum.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro-learning.html",
+    "href": "intro-learning.html",
+    "title": "What is learning?",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "What is learning?"
+    ]
+  },
+  {
+    "objectID": "intro-cognitive.html",
+    "href": "intro-cognitive.html",
+    "title": "The cognitive process of learning, and how to facilitate it",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it"
+    ]
+  },
+  {
+    "objectID": "intro-behavioural.html",
+    "href": "intro-behavioural.html",
+    "title": "The behavioural outcomes of learning, and how to assess them",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them"
+    ]
+  },
+  {
+    "objectID": "part1/intro-learning.html",
+    "href": "part1/intro-learning.html",
+    "title": "What is learning?",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "What is learning?"
+    ]
+  },
+  {
+    "objectID": "part2/intro-cognitive.html",
+    "href": "part2/intro-cognitive.html",
+    "title": "The cognitive process of learning, and how to facilitate it",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it"
+    ]
+  },
+  {
+    "objectID": "part1/learning-is-messy.html",
+    "href": "part1/learning-is-messy.html",
+    "title": "1  Learning is messy, performance is beautiful",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "What is learning?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Learning is messy, performance is beautiful</span>"
+    ]
+  },
+  {
+    "objectID": "part1/learning-takes-energy.html",
+    "href": "part1/learning-takes-energy.html",
+    "title": "2  Learning takes energy",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "What is learning?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Learning takes energy</span>"
+    ]
+  },
+  {
+    "objectID": "part1/learning-taxonomies.html",
+    "href": "part1/learning-taxonomies.html",
+    "title": "1  Taxonomies of learning",
+    "section": "",
+    "text": "1.1 Bloom’s taxonomy\nUpdated by Anderson & Krathwohl (2001).\nAnderson and Krathwohl’s (2001) updated version.\nUpdates (Anderson & Krathwohl, 2001).\nIn-text page reference to Anderson & Krathwohl (2001, p. 1).\nIn-paren page reference (Anderson & Krathwohl, 2001, pp. 1–5).",
+    "crumbs": [
+      "What is learning?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Taxonomies of learning</span>"
+    ]
+  },
+  {
+    "objectID": "part1/learning-taxonomies.html#the-solo-taxonomy",
+    "href": "part1/learning-taxonomies.html#the-solo-taxonomy",
+    "title": "1  Taxonomies of learning",
+    "section": "1.2 The SOLO taxonomy",
+    "text": "1.2 The SOLO taxonomy\nLorem ipsum.\n\n\n\n\nAnderson, L. W., & Krathwohl, D. R. (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives. Longman.",
+    "crumbs": [
+      "What is learning?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Taxonomies of learning</span>"
+    ]
+  },
+  {
+    "objectID": "part3/intro-behavioural.html",
+    "href": "part3/intro-behavioural.html",
+    "title": "The behavioural outcomes of learning, and how to assess them",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them"
+    ]
+  },
+  {
+    "objectID": "part2/learning-is-messy.html",
+    "href": "part2/learning-is-messy.html",
+    "title": "2  Learning is messy, performance is beautiful",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Learning is messy, performance is beautiful</span>"
+    ]
+  },
+  {
+    "objectID": "part2/learning-takes-energy.html",
+    "href": "part2/learning-takes-energy.html",
+    "title": "3  Learning takes energy",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Learning takes energy</span>"
+    ]
+  },
+  {
+    "objectID": "part2/learning-by-doing.html",
+    "href": "part2/learning-by-doing.html",
+    "title": "4  Learning happens by doing",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Learning happens by doing</span>"
+    ]
+  },
+  {
+    "objectID": "part2/interact-w-students.html",
+    "href": "part2/interact-w-students.html",
+    "title": "5  Interacting with students",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Interacting with students</span>"
+    ]
+  },
+  {
+    "objectID": "part2/designing-course.html",
+    "href": "part2/designing-course.html",
+    "title": "6  Designing a course",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Designing a course</span>"
+    ]
+  },
+  {
+    "objectID": "part3/summative.html",
+    "href": "part3/summative.html",
+    "title": "13  Considerations around summative assessment",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Considerations around summative assessment</span>"
+    ]
+  },
+  {
+    "objectID": "part3/more-than-grades.html",
+    "href": "part3/more-than-grades.html",
+    "title": "7  More than grades",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>More than grades</span>"
+    ]
+  },
+  {
+    "objectID": "part3/designing-assessment.html",
+    "href": "part3/designing-assessment.html",
+    "title": "8  Designing an assessment",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Designing an assessment</span>"
+    ]
+  },
+  {
+    "objectID": "part3/designing-question.html",
+    "href": "part3/designing-question.html",
+    "title": "9  Designing individual questions",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Designing individual questions</span>"
+    ]
+  },
+  {
+    "objectID": "part3/designing-mcq.html",
+    "href": "part3/designing-mcq.html",
+    "title": "10  Designing multiple choice questions",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Designing multiple choice questions</span>"
+    ]
+  },
+  {
+    "objectID": "part3/designing-sgr.html",
+    "href": "part3/designing-sgr.html",
+    "title": "11  Designing student-generated response tasks",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Designing student-generated response tasks</span>"
+    ]
+  },
+  {
+    "objectID": "part3/formative.html",
+    "href": "part3/formative.html",
+    "title": "12  Ideas for formative assessment",
+    "section": "",
+    "text": "Lorem ipsum.",
+    "crumbs": [
+      "The behavioural outcomes of learning, and how to assess them",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Ideas for formative assessment</span>"
+    ]
+  }
+]
