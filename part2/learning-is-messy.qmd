@@ -1,3 +1,18 @@
-# Learning is messy, performance is beautiful
+# Learning is messy
 
-Lorem ipsum.
+Learning is messy—it's only performance that's clean.
+
+Within the mess of a learner's developing understanding, there will be always a nugget of something valuable.
+It is the teacher's task to find that nugget and build on it.
+
+But, crucially: the aspects of a learner's developing understanding that are not worth building on are not "wrong" or "mistakes".
+If the student hasn't learned the material yet, then even if they produce something incorrect, they are not "making a mistake".
+
+Something can only be a mistake if the person knows better.
+So during the learning process, the learner can make no mistakes, because they don't yet know better.
+Something that might be wrong as a final answer is not wrong while the student is still learning.
+
+Learners must be allowed to explore ideas and experience the process of learning without their attempts being described—by themselves or by their teachers—as wrong.
+"Wrong" is a judgement, an evaluation, and it does not belong in the vocabulary of students or teachers during the process of learning.
+
+(And as we'll discuss in [Part 3](../part3/more-than-grades.qmd), when the time does come to assess students' performance, evaluations should be phrased more constructively than "this is wrong"!)

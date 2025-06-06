@@ -1,5 +1,55 @@
 # Learning happens by doing
 
-Overview of some hands-on activities.
+When students engage actively with the material, they have the opportunity to learn.
 
-Nod to the PI resource with more.
+Passive lectures produce (at best) passive learning, the way that millions of people watch NHL hockey without becoming professional hockey players.
+
+The more active the engagement, the better.
+Filling in the blanks in a lecture handout or marking up printed-out slideshows may be better than nothing, but neither truly counts as "active".
+Even typing notes has been shown to produce lower recall and retention than writing notes by hand [@SmokerEtAl2009; @MangenEtAl2015].
+Because typing proceeds faster and fills unlimited space, it may demand less synthesis in the moment than writing by hand, which is limited by time and by space.
+
+## Tools for Teaching Science
+
+Many of Laura's favourite instructional tools and classroom activities can be found in the free resource [Tools for Teaching Science](https://resources.perimeterinstitute.ca/products/tools-for-teaching-science), which Laura co-authored with Sean Jackson at the Perimeter Institute for Theoretical Physics in 2020. **[NAME OTHER CONTRIBUTORS?]**
+
+Valuable activities in [Tools for Teaching Science]((https://resources.perimeterinstitute.ca/products/tools-for-teaching-science)) include:
+
+- Jigsaws (a structure for lively group work)
+- Predict, Explain, Observe, Explain (PEOE)
+- Many formats of student voting
+
+
+## More ideas
+
+- Laura has observed that attention and cognition is improved for about ten minutes following physical activity.
+So to engage this boost, ask students to move—for example, by voting on a prompt by moving to the four corners of the room.
+
+- Asking students to improve an existing response is a useful activity for prompting meta-cognition.
+If the example response was produced by the teacher, though, then the activity is less effective than if the example response comes from a student.
+Starting with the teacher's response may make students feel like the response is already above their level and that they'll never be that good.
+(Food for thought: what about an example response produced by a large language model?)
+
+- Voting:
+  - Voting activities are good for quicker thinkers and less kind to slower thinkers.
+    To give slower thinkers time to catch up, consider modifying the format to give some pre-vote thinking time or using the format of Think–Pair–Share.
+  - Allow students to change their vote, to model the process of learning.
+
+- Encourage peer interaction:
+  - a
+  - b
+
+
+
+
+## If students don't want to engage
+
+- hard work, and feels like it's not paying off, but does lead to more robust long-term learning than what feels quick and easy [@BrownEtAl2014].
+
+- flipped classroom requires buy-in
+
+- trust
+
+
+ 
+ 

@@ -55,12 +55,12 @@
   {
     "objectID": "part2/learning-is-messy.html",
     "href": "part2/learning-is-messy.html",
-    "title": "3  Learning is messy, performance is beautiful",
+    "title": "3  Learning is messy",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "Learning is messy—it’s only performance that’s clean.\nWithin the mess of a learner’s developing understanding, there will be always a nugget of something valuable. It is the teacher’s task to find that nugget and build on it.\nBut, crucially: the aspects of a learner’s developing understanding that are not worth building on are not “wrong” or “mistakes”. If the student hasn’t learned the material yet, then even if they produce something incorrect, they are not “making a mistake”.\nSomething can only be a mistake if the person knows better. So during the learning process, the learner can make no mistakes, because they don’t yet know better. Something that might be wrong as a final answer is not wrong while the student is still learning.\nLearners must be allowed to explore ideas and experience the process of learning without their attempts being described—by themselves or by their teachers—as wrong. “Wrong” is a judgement, an evaluation, and it does not belong in the vocabulary of students or teachers during the process of learning.\n(And as we’ll discuss in Part 3, when the time does come to assess students’ performance, evaluations should be phrased more constructively than “this is wrong”!)",
     "crumbs": [
       "The cognitive process of learning, and how to facilitate it",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Learning is messy, performance is beautiful</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Learning is messy</span>"
     ]
   },
   {
@@ -68,7 +68,7 @@
     "href": "part2/learning-takes-energy.html",
     "title": "4  Learning takes energy",
     "section": "",
-    "text": "Lorem ipsum.",
+    "text": "It is easier to remain in the same state than to change. Since learning is change, learning is hard work.\nWe must keep this in mind when we design courses and individual teaching sessions (see Chapter 7). A teacher can max out students’ cognitive load by covering too much material in a single session. And maxed-out students may be less willing to trust this teacher and thus less willing to take risks (see Chapter 6).\nWe must also keep in mind that learning is hard work when we introduce new information that conflicts with old information. Take, for example, the grade 11 physics curriculum in Alberta. Before grade 11, students had been learning about physical systems in terms of friction. But grade 11 brings a paradigm shift: systems are now described without friction. [CORRECTNESS/PHRASING?]\nTo successfully make this switch, students need to update their worldview and develop a new common sense. But this takes lots of energy! In Laura’s experience, students struggle to integrate information that goes against what they had learned before. Students ask things like, “Do you want me to tell you what I think, or what you told me yesterday?”\nQuestions like this indicate superficial learning: independent bits are kluged on to one another, and little attempt is made to modify one’s existing understanding. Laura likens the behaviour to a hermit crab: what changes is the shell, not what’s inside.\nTo foreshadow Chapter 5: How do we help students update their worldviews in light of new, conflicting information?\nWe prompt students to make predictions, and let their predictions fail.\nPredictions reveal what students believe about how a system works. To produce a prediction, students need to recognise and commit to those beliefs. And they see that their belief needs to be modified if their prediction falls flat. The prediction activity is valuable because learners must recognise and commit to their beliefs to be able to actively modify them.\nMaking and evaluating predictions is one kind of “learning by doing”. In the next chapter, we explore more activities that help students learn.",
     "crumbs": [
       "The cognitive process of learning, and how to facilitate it",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Learning takes energy</span>"
@@ -79,7 +79,7 @@
     "href": "part2/learning-by-doing.html",
     "title": "5  Learning happens by doing",
     "section": "",
-    "text": "Overview of some hands-on activities.\nNod to the PI resource with more.",
+    "text": "5.1 Tools for Teaching Science\nMany of Laura’s favourite instructional tools and classroom activities can be found in the free resource Tools for Teaching Science, which Laura co-authored with Sean Jackson at the Perimeter Institute for Theoretical Physics in 2020. [NAME OTHER CONTRIBUTORS?]\nValuable activities in Tools for Teaching Science include:",
     "crumbs": [
       "The cognitive process of learning, and how to facilitate it",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning happens by doing</span>"
@@ -213,6 +213,39 @@
     "crumbs": [
       "What is learning?",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Taxonomies of learning</span>"
+    ]
+  },
+  {
+    "objectID": "part2/learning-by-doing.html#tools-for-teaching-science",
+    "href": "part2/learning-by-doing.html#tools-for-teaching-science",
+    "title": "5  Learning happens by doing",
+    "section": "",
+    "text": "Jigsaws (a structure for lively group work)\nPredict, Explain, Observe, Explain (PEOE)\nMany formats of student voting",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning happens by doing</span>"
+    ]
+  },
+  {
+    "objectID": "part2/learning-by-doing.html#more-ideas",
+    "href": "part2/learning-by-doing.html#more-ideas",
+    "title": "5  Learning happens by doing",
+    "section": "5.2 More ideas",
+    "text": "5.2 More ideas\n\nLaura has observed that attention and cognition is improved for about ten minutes following physical activity. So to engage this boost, ask students to move—for example, by voting on a prompt by moving to the four corners of the room.\nAsking students to improve an existing response is a useful activity for prompting meta-cognition. If the example response was produced by the teacher, though, then the activity is less effective than if the example response comes from a student. Starting with the teacher’s response may make students feel like the response is already above their level and that they’ll never be that good. (Food for thought: what about an example response produced by a large language model?)\nVoting:\n\nVoting activities are good for quicker thinkers and less kind to slower thinkers. To give slower thinkers time to catch up, consider modifying the format to give some pre-vote thinking time or using the format of Think–Pair–Share.\nAllow students to change their vote, to model the process of learning.\n\nEncourage peer interaction.\n\na\nb",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning happens by doing</span>"
+    ]
+  },
+  {
+    "objectID": "part2/learning-by-doing.html#if-students-dont-want-to-engage",
+    "href": "part2/learning-by-doing.html#if-students-dont-want-to-engage",
+    "title": "5  Learning happens by doing",
+    "section": "5.3 If students don’t want to engage",
+    "text": "5.3 If students don’t want to engage\n\nhard work, and feels like it’s not paying off, but does lead to more robust long-term learning than what feels quick and easy (Brown et al., 2014).\nflipped classroom requires buy-in\ntrust\n\n\n\n\n\nBrown, P. C., Roediger, H. L., & McDaniel, M. A. (2014). Make it stick: The science of successful learning. The Belknap Press of Harvard University Press.\n\n\nMangen, A., Anda, L. G., Oxborough, G. H., & Brønnick, K. (2015). Handwriting versus keyboard writing: Effect on word recall. Journal of Writing Research, 7(2), 227–247. https://doi.org/10.17239/jowr-2015.07.02.1\n\n\nSmoker, T. J., Murphy, C. E., & Rockwell, A. K. (2009). Comparing Memory for Handwriting versus Typing. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 53(22), 1744–1747. https://doi.org/10.1177/154193120905302218",
+    "crumbs": [
+      "The cognitive process of learning, and how to facilitate it",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Learning happens by doing</span>"
     ]
   }
 ]

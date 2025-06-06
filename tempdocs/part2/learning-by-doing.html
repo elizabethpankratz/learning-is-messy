@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -148,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../part2/learning-is-messy.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Learning is messy, performance is beautiful</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Learning is messy</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -242,7 +262,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#tools-for-teaching-science" id="toc-tools-for-teaching-science" class="nav-link active" data-scroll-target="#tools-for-teaching-science"><span class="header-section-number">5.1</span> Tools for Teaching Science</a></li>
+  <li><a href="#more-ideas" id="toc-more-ideas" class="nav-link" data-scroll-target="#more-ideas"><span class="header-section-number">5.2</span> More ideas</a></li>
+  <li><a href="#if-students-dont-want-to-engage" id="toc-if-students-dont-want-to-engage" class="nav-link" data-scroll-target="#if-students-dont-want-to-engage"><span class="header-section-number">5.3</span> If students don’t want to engage</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -266,10 +294,57 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Overview of some hands-on activities.</p>
-<p>Nod to the PI resource with more.</p>
+<p>When students engage actively with the material, they have the opportunity to learn.</p>
+<p>Passive lectures produce (at best) passive learning, the way that millions of people watch NHL hockey without becoming professional hockey players.</p>
+<p>The more active the engagement, the better. Filling in the blanks in a lecture handout or marking up printed-out slideshows may be better than nothing, but neither truly counts as “active”. Even typing notes has been shown to produce lower recall and retention than writing notes by hand <span class="citation" data-cites="SmokerEtAl2009 MangenEtAl2015">(<a href="../references.html#ref-MangenEtAl2015" role="doc-biblioref">Mangen et al., 2015</a>; <a href="../references.html#ref-SmokerEtAl2009" role="doc-biblioref">Smoker et al., 2009</a>)</span>. Because typing proceeds faster and fills unlimited space, it may demand less synthesis in the moment than writing by hand, which is limited by time and by space.</p>
+<section id="tools-for-teaching-science" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="tools-for-teaching-science"><span class="header-section-number">5.1</span> Tools for Teaching Science</h2>
+<p>Many of Laura’s favourite instructional tools and classroom activities can be found in the free resource <a href="https://resources.perimeterinstitute.ca/products/tools-for-teaching-science">Tools for Teaching Science</a>, which Laura co-authored with Sean Jackson at the Perimeter Institute for Theoretical Physics in 2020. <strong>[NAME OTHER CONTRIBUTORS?]</strong></p>
+<p>Valuable activities in <a href="(https://resources.perimeterinstitute.ca/products/tools-for-teaching-science)">Tools for Teaching Science</a> include:</p>
+<ul>
+<li>Jigsaws (a structure for lively group work)</li>
+<li>Predict, Explain, Observe, Explain (PEOE)</li>
+<li>Many formats of student voting</li>
+</ul>
+</section>
+<section id="more-ideas" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="more-ideas"><span class="header-section-number">5.2</span> More ideas</h2>
+<ul>
+<li><p>Laura has observed that attention and cognition is improved for about ten minutes following physical activity. So to engage this boost, ask students to move—for example, by voting on a prompt by moving to the four corners of the room.</p></li>
+<li><p>Asking students to improve an existing response is a useful activity for prompting meta-cognition. If the example response was produced by the teacher, though, then the activity is less effective than if the example response comes from a student. Starting with the teacher’s response may make students feel like the response is already above their level and that they’ll never be that good. (Food for thought: what about an example response produced by a large language model?)</p></li>
+<li><p>Voting:</p>
+<ul>
+<li>Voting activities are good for quicker thinkers and less kind to slower thinkers. To give slower thinkers time to catch up, consider modifying the format to give some pre-vote thinking time or using the format of Think–Pair–Share.</li>
+<li>Allow students to change their vote, to model the process of learning.</li>
+</ul></li>
+<li><p>Encourage peer interaction.</p>
+<ul>
+<li>a</li>
+<li>b</li>
+</ul></li>
+</ul>
+</section>
+<section id="if-students-dont-want-to-engage" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="if-students-dont-want-to-engage"><span class="header-section-number">5.3</span> If students don’t want to engage</h2>
+<ul>
+<li><p>hard work, and feels like it’s not paying off, but does lead to more robust long-term learning than what feels quick and easy <span class="citation" data-cites="BrownEtAl2014">(<a href="../references.html#ref-BrownEtAl2014" role="doc-biblioref">Brown et al., 2014</a>)</span>.</p></li>
+<li><p>flipped classroom requires buy-in</p></li>
+<li><p>trust</p></li>
+</ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-BrownEtAl2014" class="csl-entry" role="listitem">
+Brown, P. C., Roediger, H. L., &amp; McDaniel, M. A. (2014). <em>Make it stick: <span>The</span> science of successful learning</em>. The Belknap Press of Harvard University Press.
+</div>
+<div id="ref-MangenEtAl2015" class="csl-entry" role="listitem">
+Mangen, A., Anda, L. G., Oxborough, G. H., &amp; Brønnick, K. (2015). Handwriting versus keyboard writing: <span>Effect</span> on word recall. <em>Journal of Writing Research</em>, <em>7</em>(2), 227–247. <a href="https://doi.org/10.17239/jowr-2015.07.02.1">https://doi.org/10.17239/jowr-2015.07.02.1</a>
+</div>
+<div id="ref-SmokerEtAl2009" class="csl-entry" role="listitem">
+Smoker, T. J., Murphy, C. E., &amp; Rockwell, A. K. (2009). Comparing <span>Memory</span> for <span>Handwriting</span> versus <span>Typing</span>. <em>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</em>, <em>53</em>(22), 1744–1747. <a href="https://doi.org/10.1177/154193120905302218">https://doi.org/10.1177/154193120905302218</a>
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
