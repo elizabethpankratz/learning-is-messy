@@ -1,13 +1,138 @@
 # Interacting with students
 
-Some things to think about:
+The learner is the centre of everything we do.
+Our work should serve them, not us.
 
-Respect the student.
+## Respect students
 
-Build students' trust in you.
-Nurture that trust, and spend it judiciously.
+It is crucial to respect students—whether or not they are present!
+One of Laura's rules for the marking room is never to put student work on the floor.
+Even though it might be saving table space, it demeans the product of student labour, and that's not at all the message we want to send.
 
-Welcome questions from students.
-Really listen to the questions.
+We must respect students' thinking.
+This means:
 
-Be intentional about the questions that you ask students.
+- When they ask you a question or respond to one of yours, really listen and think about, for example what [cognitive level](../part1/learning-taxonomies.qmd#the-solo-taxonomy) they are targeting.
+More on this below.
+If you can, use their response to move to the next idea.
+- Find the nugget in what they've produced that is valid and valuable and build on it in the target direction.
+  - For example, "X and Y are good points! How would we move between them?"
+  - Such a response gives a constructive direction to the thinking.
+- Students are not attempting to be obtuse.
+If their response doesn't seem reasonable, then consider that the prompt might have been unclear, rather than that their thinking is lacking.
+- Focus on what the student has done well, what progress they have made.
+
+
+We must respect students' time and energy.
+This means:
+
+- Make assessments meaningful and relevant.
+- Use students' time intentionally and wisely (more on this in [the next chapter](designing-course.qmd)).
+
+
+## Build trust
+
+Laura thinks of trust in terms of "equity" in the financial sense.
+If equity is good—that is, if students' trust in their teacher is good—then the teacher can challenge and push the students and the students will go along.
+
+To build good equity, to nurture that trust, students must believe two things.
+
+1. Students must believe that you're asking them to do something they can actually succeed at, not something impossible.
+2. Students must know that you'll respect whatever response they give you (see above).
+
+Laura likes the financial metaphor because teacher equity can also be spent.
+For example, when we write a hard question or set a difficult task, it costs some equity, because the students need to take a risk.
+Teachers must be intentional about when and how much this equity is spent.
+
+In the marks economy, students only want to be successful—they don't want to learn.
+Good teacher equity can help motivate students to learn despite this, to take risks anyway, because the students trust that they will be successful.
+But the reverse holds, too: if students aren't trying, then that indicates that they don't trust the teacher—that there's insufficient equity to do what the teacher is aiming to do.
+
+
+## Welcome questions from students
+
+A student asking you a question is a victory!
+A question is evidence that they're following along and that they're willing to take a risk.
+
+We can learn a lot about where a student is at by analysing the kinds of questions they ask.
+What [cognitive level](../part1/learning-taxonomies.qmd#the-solo-taxonomy) is the student trying to use? 
+What is their attitude toward risk?
+What's their resilience like?
+
+Even a hugely broad question like "What should I do? I don't know where to start" tells you, for example, that the student wants a memorised, known, algorithmic method to apply that will always work.
+If memorising algorithms is the goal of the course, then giving exactly that kind of guidance is appropriate.
+But if that's not the goal of the course, then this becomes an opportunity to guide the student toward the answer.
+In general, when a student asks for help, try not to tell.
+Try instead to elicit, for example with Socratic questioning.
+
+
+## Socratic questioning
+
+Students find Socratic questioning very annoying, but it is very effective.
+Socratic questions aren't just any questions directed toward the student: "Why did you do that?" is not a Socratic question.
+Rather, Socratic questions aim to prompt metacognition.
+
+A good starting point is "Can you walk me through your thinking so far?"
+By going step by step through their thinking, students will often identify their own missteps.
+It's great when students do this because the teacher doesn't need to point out where the misunderstanding was–the student has done the metacognitive troubleshooting themselves and has gained an effective strategy for their toolkit.
+
+A good strategy for Socratic questioning is to start at the lowest cognitive level in the [SOLO taxonomy](../part1/learning-taxonomies.qmd#the-solo-taxonomy), then if the student meets you at that level, ramp up the complexity.
+Start with uni-structural questions to check whether students understand individual ideas (e.g., "Can you tell me about X?").
+If they do, then progress to multi-structural and relational questions, guiding the student to connect their ideas in the target direction (e.g., "Why do you think X is happening?", "What's one way X is related to Y?")
+
+
+## Think of the cognitive level of your questions
+
+Even beyond of the Socratic method, when asking any kind of question, teachers must be aware of what [cognitive level](../part1/learning-taxonomies.qmd#the-solo-taxonomy) they are targeting and whether they are getting back that same level of response.
+(This ties back to the importance of listening, mentioned above.)
+
+If you ask a uni-structural question where a student just has to recall an idea, and they give you a uni-structural answer back, you can be happy.
+But if you ask a relational question and they give you a uni-structural answer, then don't fall prey to confirmation bias (more below)—double down and clarify what kind of response you wanted from them.
+
+Aim to ask students questions that are in their ballpark, that are roughly at their level of ability.
+There's no point asking someone who's already struggling a very challenging question.
+But be aware of internalised biases in terms of whom you assume to be operating at what cognitive level [@Inan-KayaRubie-Davies2022].
+
+In fact, it's very useful to tell students about the SOLO taxonomy, tell them that there are different levels of cognition that we're applying.
+If students are familiar with these cognitive levels, a very handy metacognitive level of conversation opens up.
+For example, you can say, "I'm about to ask you a relational question", and the student might say, "OK, but I might only give you a uni-structural response".
+This is great, because the student has understood what's being asked and what cognitive level they're at!
+Even better when the students can articulate, say, "I have a multi-structural level of understanding but I want a relational one".
+We want students to be able to manage their own learning, and this is one useful way.
+
+Additionally, telling people what level of cognition you want from them will change the way they approach a question [@Kahnemann2011].
+Even without using the SOLO terminology, you might say something like, "I'm going to ask a question that requires you to think, so I'm not going to take the first answer."
+And telling students up front that you want them to think will make them more likely to engage more complex levels of cognition.
+
+
+## Ask questions intentionally
+
+Every question you ask (and indeed, every task and activity you set) should have a clear intention, purpose, or goal.
+You should know what your question is trying to accomplish, so that you can judge whether the aim has been met.
+
+For example, you might ask questions for the following reasons:
+
+- As a management strategy: to wake students up, to get them on task, to redirect a behaviour.
+- To gauge the level understanding in the class.
+  - Best to target these questions not toward the top students, but toward students at about the 80th percentile. Their understanding is more likely representative of the class overall.
+  - Don't ask "Are there any questions?", but "At this point, what questions do you have?"
+  - Don't ask "Do you understand?", but "What's next?" or "In this situation, what would you do?" (People don't like admitting to not understanding.)
+- Very broadly: to gain information that the teacher (and potentially the students) didn't previously have.
+
+
+By responding to student questions in a particular way, you can make students an authority in the classroom too.
+Specifically, you can allow students to thoroughly answer questions and then just move on to the next idea, not restating what the student already said.
+Doing this signals to other students that knowledge can come not just from the teacher but also from their peers.
+It changes the role of student and teacher in the classroom, and it unnerves students who expect to get all their information from the teacher.
+However, learning from their peers is an important skill for students to develop, and this is one way to encourage it.
+
+
+## Confirmation bias
+
+If a student gives an appropriate answer to our question, then we tend to assume that they're following the logic we wanted them to follow to get to that answer.
+When a student gives us the response we want, we tend to stop pushing.
+In this way, a good student answer can end the discussion.
+But if the class as a whole isn't there yet, then the star student might end the learning moment before the rest of the class is ready to move on.
+For this reason, we have to be aware not just of the star student's level, but of the range of levels within the class.
+
+

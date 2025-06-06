@@ -35,21 +35,33 @@ Starting with the teacher's response may make students feel like the response is
     To give slower thinkers time to catch up, consider modifying the format to give some pre-vote thinking time or using the format of Think–Pair–Share.
   - Allow students to change their vote, to model the process of learning.
 
-- Encourage peer interaction:
-  - a
-  - b
+- Peer interaction:
+  - Students learn better from one another than they learn from us [@TullisGoldstone2020]. But peer instruction especially improves the learning of the top students, in Laura's experience, because the top students have the chance to explain a concept to somebody else—and explaining things deepens understanding. To make sure that struggling students still benefit from peer instruction, be transparent about how it will benefit them: for example,  that they'll be exposed to the concept explained in a different way.
+  - When students are asking one another questions, listen in:
+    - What is the cognitive level of the questions they're asking? (See [SOLO taxonomy](../part1/learning-taxonomies.html#the-solo-taxonomy).)
+    - What type of challenge is the student trying to address?
+    - Is their question in line with the kind of thinking you were aiming to provoke?
+  - During peer interaction, can prompt them with certain questions to model active listening, for example:
+    - Do you agree with X response?
+    - How would you improve that response?
+    - What else could we consider?
+    - Was X response better than Y response?
+    - What did Y response add to X?
+    - What else could we add?
+    - ... and so on.
 
-
+- A flipped classroom (where students prepare the material on their own time and the synchronous gatherings are for advancing students' thinking) requires that students buy in and show their own initiative.
 
 
 ## If students don't want to engage
 
-- hard work, and feels like it's not paying off, but does lead to more robust long-term learning than what feels quick and easy [@BrownEtAl2014].
+Students often prefer a passive learning environment.
+It demands from them little effort and moreover, when the material is presented clearly, students may have the illusion of understanding, the illusion of mastery.
+And on the other hand, active learning takes hard work that can feel to many students like it's not paying off.
+However, they shouldn't put too much stock in this feeling.
+Research has shown that, even if students feel like they're learning less, active engagement actually improves learning and long-term retention [@DeslauriersEtAl2019; @BrownEtAl2014].
+Encourage students by sharing these findings.
 
-- flipped classroom requires buy-in
-
-- trust
-
-
- 
- 
+Students may also resist active learning because it often means taking a risk (because learning is messy!).
+And if students aren't willing to take risks, this could reflect that they don't have enough trust in the teacher: trust that they can accomplish whatever task the teacher has set for them, and trust that the teacher will receive whatever they produce with respect.
+[In the next chapter](interact-w-students.qmd), we'll discuss in more detail the relationship between student and teacher, including building this trust.
