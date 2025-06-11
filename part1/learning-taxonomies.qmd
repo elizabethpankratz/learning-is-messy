@@ -5,15 +5,20 @@
 Probably the most widespread framework for classifying levels of cognition in learning is Bloom's taxonomy [@BloomEtAl1956], more recently refined by @AndersonKrathwohl2001.
 Anderson and Krathwohl frame six levels of cognition as actions, here ordered from easiest to most demanding:
 
-- Remember
-- Understand
-- Apply
-- Analyze
-- Evaluate
-- Create
+- **Remember**
+- **Understand**
+- **Apply**
+- **Analyze**
+- **Evaluate**
+- **Create**
 
-Each of these actions implicates a different degree of cognitive involvement, but they don't directly describe the kind of connections that the learner is making behind the scenes.
-For that reason, Laura prefers to work with the SOLO taxonomy.
+<!-- Each of these actions implicates a different degree of cognitive involvement. -->
+
+To use Bloom's taxonomy, educators need to interpret these six levels and map them to what they infer a student is actually doing when the student generates a response.
+
+In Laura's experience, different educators interpret these levels differently, leading to people using the same words for different concepts (and different words for the same concepts).
+For this reason, she prefers the SOLO taxonomy. 
+It is easier to explain, internalise, and use.
 
 
 ## The SOLO taxonomy
@@ -23,22 +28,23 @@ This taxonomy was developed by @BiggsCollis1982, and it specifies five levels of
 
 - **Pre-structural:** The learner hasn't started learning.
 - **Uni-structural:** The learner can describe an idea or do a single-step procedure.
-- **Multi-structural:** The learner has a grasp on several ideas but doesn't know how they fit together.
+- **Multi-structural:** The learner has a grasp on several distinct ideas but doesn't know how they fit together.
 - **Relational:** The learner can link, classify, sequence, compare, and contrast their ideas.
 - **Extended abstract:** The learner can generalise from their ideas and make predictions about new contexts.
 
-Where Bloom's taxonomy describes actions, the SOLO taxonomy describes how ideas are connected in the mind of a learner.
-
-[The web site Inspiring Inquiry](https://www.inspiringinquiry.com/learningteaching/toolsstrategies/solo-taxonomy) is a very good resource for exploring the SOLO taxonomy in greater depth.
+SOLO's major strength is that it describes relationships among ideas, rather than Bloom's approach of classifying actions.
+And relationships among ideas are crucial for our work as educators: we must always be aware of the way students are linking (or not yet linking) their ideas.
 
 We'll come back to these levels of cognition again and again throughout this book, because Laura uses the SOLO taxonomy in many different areas of her teaching.
 For example:
 
-- to interpret the level of questions from students,
+- to interpret the cognitive level of questions from students,
 - to decide on the appropriate level of answer to provide,
+- to evaluate the level of a student's answer compared to the level expected by the question,
 - to choose the scope of a task, and
 - to determine expectations of an assessment or a course.
 
+[The web site Inspiring Inquiry](https://www.inspiringinquiry.com/learningteaching/toolsstrategies/solo-taxonomy) is a very good resource for exploring the SOLO taxonomy in greater depth.
 
 
 <!-- Updated by @AndersonKrathwohl2001. -->

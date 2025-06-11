@@ -14,7 +14,7 @@ It is common practice to structure a course such that every topic receives its o
 This way, teachers and students can finish up with one topic, close that box, and move on to the next one.
 This practice is sometimes called siloing.
 
-Though it's common practice, siloing is not *good* practice.
+Though it's common, siloing is not good practice.
 With each topic handled separately, learners cannot forge robust connections between ideas and build out their mental network of conceptual links—one of the most important tasks in deepening their understanding [@AmbroseEtAl2010; @BiggsCollis1982].
 Keeping each topic's box open is a harder cognitive task, but it's a better education.
 
@@ -39,20 +39,35 @@ an interleaved structure might be
 - Day 3: Topic A
 - Day 4: Topic B.
 
-Returning to Topic A after Topic B has been broached invites learners to draw connections between A and B that they may otherwise have missed.
+Returning to Topic A after Topic B has been opened invites learners to draw connections between A and B that they may otherwise have missed.
 
 Interleaving has been shown to strengthen learning and aid retention [@BrownEtAl2014].
+It's cognitively harder work for both student and teacher, but it leads to better learning long-term.
 
 
 ### Velcro teaching
 
+Velcro teaching is Laura's term for the process of explicitly drawing connections between material in different sections of a course.
+You might set the hook forward ("next week, we'll hear more about X"), and if you do, you'll have to deliver ("like I promised last week, we're going to talk more about X").
+We've been setting hooks in this text, too, every time we say "We'll talk more about X in Chapter Y".
+For example, in [Chapter 2](../part1/learning-taxonomies.qmd) when we set the hook forward about all the places the SOLO taxonomy will reappear throughout this text.
+
+Velcro teaching requires that you know your material at least a week ahead of time, and that you also have a solid understanding of how the topics in your course fit together.
+This level of understanding can be difficult to attain the first couple times through a course.
+Give yourself grace!
+Sometimes just making it through the week is enough.
+
+But the goal of velcro teaching is to help students keep the boxes of each topic open and to prepare them for making the connections that you think are important.
 
 
+## Transparency about structure
 
+Whatever the structure of your course, tell your students about what you have planned as early as possible.
+Telling people what to expect before they experience it is called "pre-organising", and novice learners and the average person much prefer pre-organised tasks.
+So telling students what is to come can help get them on board.
+("Post-organising"—giving people an experience and then putting a structure over it in retrospect—is better-suited for more masterful learners, because they're more comfortable juggling several live ideas at a time.)
 
-
-
-Anti-silo: Velcro teaching.
-
-
-## Transparency
+Transparency about structure also applies at the level of an individual lesson.
+At the beginning of a lesson, give students an outline of what they can expect from that session, and importantly, check off topics from the outline as they're accomplished.
+The goal is for everybody to be able to tell where they are in the day's schedule, even if (when) their attention falters.
+People should always be able to find a way back in.
