@@ -1,67 +1,80 @@
-# Learning happens by doing
+# Learning happens by doing {#sec-learn-by-doing}
 
-When students engage actively with the material, they have the opportunity to learn.
+When students actively engage with the material, they have the opportunity to learn.
 
-Passive lectures produce (at best) passive learning, the way that millions of people watch NHL hockey without becoming professional hockey players.
+Passive lectures produce (at best) passive learning.
+Millions of people watch NHL hockey without becoming professional hockey players.
 
-The more active the engagement, the better.
-Filling in the blanks in a lecture handout or marking up printed-out slideshows may be better than nothing, but neither truly counts as "active".
-Even typing notes has been shown to produce lower recall and retention than writing notes by hand [@SmokerEtAl2009; @MangenEtAl2015].
-Because typing proceeds faster and fills unlimited space, it may demand less synthesis in the moment than writing by hand, which is limited by time and by space.
+Even limited activity is better than nothing, but the following activities still don't count as truly active:
 
-## Tools for Teaching Science
+- Filling in the blanks in a lecture handout
+- Marking up printed-out slideshows
+- Taking notes, and especially when they're typed [@SmokerEtAl2009; @MangenEtAl2015].
 
-Many of Laura's favourite instructional tools and classroom activities can be found in the free resource [Tools for Teaching Science](https://resources.perimeterinstitute.ca/products/tools-for-teaching-science), which Laura co-authored with Sean Jackson at the Perimeter Institute for Theoretical Physics in 2020. **[NAME OTHER CONTRIBUTORS?]**
-
-Valuable activities in [Tools for Teaching Science]((https://resources.perimeterinstitute.ca/products/tools-for-teaching-science)) include:
-
-- Jigsaws (a structure for lively group work)
-- Predict, Explain, Observe, Explain (PEOE)
-- Many formats of student voting
+So what activites do encourage active learning?
 
 
-## More ideas
+## A resource: Tools for Teaching Science
+
+Laura co-authored a free resource called [Tools for Teaching Science](https://resources.perimeterinstitute.ca/products/tools-for-teaching-science), together with Sean Jackson at the Perimeter Institute for Theoretical Physics in 2020. **[NAME OTHER CONTRIBUTORS?]**
+
+Some example activities discussed in [Tools for Teaching Science]((https://resources.perimeterinstitute.ca/products/tools-for-teaching-science)) are:
+
+- Peer instruction
+- Self-evaluation
+- Predict, Explain, Observe, Explain (PEOE) activity
+- Know–Wonder–Learned charts
+- Jigsaw activity (a structure for lively group work)
+
+
+## Some more ideas
 
 - Laura has observed that attention and cognition is improved for about ten minutes following physical activity.
-So to engage this boost, ask students to move—for example, by voting on a prompt by moving to the four corners of the room.
+So to engage this boost, ask students to move—for example, voting on a prompt by moving to the four corners of the room, or changing seats to work with a new partner.
 
-- Asking students to improve an existing response is a useful activity for prompting meta-cognition.
-If the example response was produced by the teacher, though, then the activity is less effective than if the example response comes from a student.
-Starting with the teacher's response may make students feel like the response is already above their level and that they'll never be that good.
-(Food for thought: what about an example response produced by a large language model?)
+- Asking students to improve an existing response is a useful activity for prompting metacognition.
+Improving an existing response is especially effective if the original response is from a student, rather than from a teacher (since correcting a teacher's work could feel awkward, or if the work is already very good, students might feel that they can't live up to that standard).
+
+- A flipped classroom (where students prepare the material on their own time and the synchronous gatherings aim to advance students' thinking) only works if students buy in and show initiative and if the teacher is good at presenting material clearly without an audience.
 
 - Voting:
-  - Voting activities are good for quicker thinkers and less kind to slower thinkers.
-    To give slower thinkers time to catch up, consider modifying the format to give some pre-vote thinking time or using the format of Think–Pair–Share.
-  - Allow students to change their vote, to model the process of learning.
+  - To model the process of learning, allow students to change their vote.
+  - In-class live voting is fine for quicker thinkers, but it's less kind to slower thinkers.
+    To give slower thinkers time to catch up, consider including some thinking time before the vote, or integrating the vote into a Think–Pair–Share activity.
 
 - Peer interaction:
-  - Students learn better from one another than they learn from us [@TullisGoldstone2020]. But peer instruction especially improves the learning of the top students, in Laura's experience, because the top students have the chance to explain a concept to somebody else—and explaining things deepens understanding. To make sure that struggling students still benefit from peer instruction, be transparent about how it will benefit them: for example,  that they'll be exposed to the concept explained in a different way.
+  - Students learn better from one another than they learn from us [@TullisGoldstone2020]. 
+  But peer instruction especially improves the learning of the top students, in Laura's experience, because the top students have the chance to explain a concept to somebody else—and explaining things deepens understanding. 
+  To make sure that struggling students still benefit from peer instruction, be transparent about how it will serve them: for example, that they'll see the concept explained in a different way.
   - When students are asking one another questions, listen in:
-    - What is the cognitive level of the questions they're asking? (See [SOLO taxonomy](../part1/learning-taxonomies.html#the-solo-taxonomy).)
+    - What is the cognitive level of the questions they're asking? (See [Section @sec-solo].)
     - What type of challenge is the student trying to address?
     - Is their question in line with the kind of thinking you were aiming to provoke?
-  - During peer interaction, can prompt them with certain questions to model active listening, for example:
+  - During peer interaction, teachers can ask students questions to model active listening, for example:
     - Do you agree with X response?
-    - How would you improve that response?
+    - How would you improve X response?
     - What else could we consider?
     - Was X response better than Y response?
     - What did Y response add to X?
     - What else could we add?
     - ... and so on.
 
-- A flipped classroom (where students prepare the material on their own time and the synchronous gatherings are for advancing students' thinking) requires that students buy in and show their own initiative.
-
 
 ## If students don't want to engage
 
-Students often prefer a passive learning environment.
-It demands from them little effort and moreover, when the material is presented clearly, students may have the illusion of understanding, the illusion of mastery.
-And on the other hand, active learning takes hard work that can feel to many students like it's not paying off.
-However, they shouldn't put too much stock in this feeling.
-Research has shown that, even if students feel like they're learning less, active engagement actually improves learning and long-term retention [@DeslauriersEtAl2019; @BrownEtAl2014].
-Encourage students by sharing these findings.
+There are two big reasons why students may not want to engage in active learning: it's hard, and it's risky.
 
-Students may also resist active learning because it often means taking a risk (because learning is messy!).
-And if students aren't willing to take risks, this could reflect that they don't have enough trust in the teacher: trust that they can accomplish whatever task the teacher has set for them, and trust that the teacher will receive whatever they produce with respect.
-[In the next chapter](interact-w-students.qmd), we'll discuss in more detail the relationship between student and teacher, including building this trust.
+Learning is hard to begin with, and active learning is harder than passive learning, as we discussed in [Section @sec-learning-takes-energy].
+But what's more, when students see material presented clearly, they may have the illusion of understanding, the illusion of mastery—whereas active learning may feel like hard, confusing work that's not paying off.
+However, students shouldn't put too much stock in that feeling.
+Research has shown that, even if people *feel* like they're learning less, their learning and long-term retention is actually improved by active learning and active engagement [@DeslauriersEtAl2019; @BrownEtAl2014].
+Students may be encouraged by seeing these findings.
+
+Active learning also means, potentially, actively demonstrating that you have misunderstood something about the material.
+And in the grades economy, misunderstandings are punished (even though they are an intrinsic part of the learning process and shouldn't be thought of as "wrong"; see [Section @sec-learning-is-messy])!
+So, naturally, students are disincentivised to risk exposing themselves as having anything less than a perfect understanding.
+
+But there are ways that teachers can encourage students to take risks.
+Students will be more willing to go out on a limb and try something hard if they have trust in the teacher: trust that they *can* succeed at whatever task the teacher has set for them, and trust that whatever they produce, the teacher will receive it with respect.
+
+Next, in [Section @sec-interact-w-students], we'll discuss in more detail the relationship between student and teacher, including the building of this trust.

@@ -1,4 +1,6 @@
-# Designing a course
+# Designing a course {#sec-designing-course}
+
+## Know the purpose
 
 [In the last chapter](interact-w-students.qmd), we advised you to know the purpose of every question you ask.
 The same principle holds at the level of course design: know the purpose of every piece of material you incorporate.
@@ -7,8 +9,16 @@ Students should have good, real reasons to learn the material.
 And once you've chosen your material intentionally, students can grouse, "Why should I learn this?" and you will have a good answer.
 ("Because you need it for the test" should never pass your lips!)
 
+And as we mentioned back in [Section @sec-learning-takes-energy], learning takes energy.
 
-## Breaking down silos
+A teacher can max out students' cognitive load by covering too much material in a single session.
+And maxed-out students may be less willing to engage and take risks.
+We'll discuss how to promote risk-taking by fostering a relationship of trust between student and teacher in [Section @sec-interact-w-students].
+
+That said, only including the core information that can be motivated can help to keep the cognitive overhead low and the amount of content you need to cover restricted to the key pieces.
+
+
+## Break down silos
 
 It is common practice to structure a course such that every topic receives its own little box, tidily compartmentalised away from the other boxes.
 This way, teachers and students can finish up with one topic, close that box, and move on to the next one.
@@ -63,7 +73,7 @@ But the goal of velcro teaching is to help students keep the boxes of each topic
 ## Transparency about structure
 
 Whatever the structure of your course, tell your students about what you have planned as early as possible.
-Telling people what to expect before they experience it is called "pre-organising", and novice learners and the average person much prefer pre-organised tasks.
+Telling people what to expect before they experience it is called "pre-organising", and novice learners and the average person function well in a pre-organised structure.
 So telling students what is to come can help get them on board.
 ("Post-organising"—giving people an experience and then putting a structure over it in retrospect—is better-suited for more masterful learners, because they're more comfortable juggling several live ideas at a time.)
 
@@ -71,3 +81,8 @@ Transparency about structure also applies at the level of an individual lesson.
 At the beginning of a lesson, give students an outline of what they can expect from that session, and importantly, check off topics from the outline as they're accomplished.
 The goal is for everybody to be able to tell where they are in the day's schedule, even if (when) their attention falters.
 People should always be able to find a way back in.
+
+---
+
+In the last several chapters, we have been focusing on the cognitive process of learning, and how we as educators can facilitate it.
+[The next chapter begins Part 3](../part3/more-than-grades.qmd); we pivot to the behavioural outcomes of learning and how we can assess them.

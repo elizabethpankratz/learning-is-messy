@@ -1,4 +1,4 @@
-# Defining learning
+# Defining learning {#sec-defining-learning}
 
 Learning is a process, a change in cognition.
 As educators, we try to facilitate this cognitive process (our focus in [Part 2](../part2/learning-is-messy.qmd) of this book).
@@ -15,10 +15,10 @@ This response is consistent, but it's not nuanced nor connected to other ideas.
 When faced with a new context, the novice learner might say something like, "You've not taught me how to answer this," or "I don't know where to begin."
 
 - **An intermediate learner** knows that there are nuances behind an idea and connections to be made, but might not be able to convey them precisely.
-When faced with a new context, the intermediate learner might give responses at a simpler level of cognition than what the new context demands (we'll talk more about levels of cognition [on the next page](learning-taxonomies.qmd)), or they might say something like, "I've memorised everything, but I still don't understand!"
+When faced with a new context, the intermediate learner might give responses at a simpler level of cognition than what the new context demands (we'll talk more about levels of cognition next, in [Section @sec-learning-taxonomies]), or they might say something like, "I've memorised everything, but I still don't understand!"
 
 - **A master learner** knows the nuances and connections and chooses the response that's most appropriate in each situation.
 When faced with a new context, a master learner recognises what parts of their understanding are transferrable and is able to situate them in the new scenario.
 
 Even though these responses all reflect different degrees or levels of cognition, they all still reflect learning.
-[On the next page](learning-taxonomies.qmd), we discuss two common ways of conceptualising these different levels of cognition: Bloom's taxonomy and the SOLO taxonomy.
+Next we'll discuss two common ways of conceptualising these different levels of cognition: Bloom's taxonomy and the SOLO taxonomy.

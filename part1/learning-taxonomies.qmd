@@ -1,4 +1,4 @@
-# Taxonomies of learning
+# Taxonomies of learning {#sec-learning-taxonomies}
 
 ## Bloom's taxonomy
 
@@ -21,7 +21,7 @@ For this reason, she prefers the SOLO taxonomy.
 It is easier to explain, internalise, and use.
 
 
-## The SOLO taxonomy
+## The SOLO taxonomy {#sec-solo}
 
 SOLO stands for "Structure of the Observed Learning Outcome".
 This taxonomy was developed by @BiggsCollis1982, and it specifies five levels of increasingly complex thinking and understanding:

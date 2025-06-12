@@ -1,34 +1,32 @@
-# Learning takes energy
+# Learning takes energy {#sec-learning-takes-energy}
 
 It is easier to remain in the same state than to change.
-Since learning is change, learning is hard work.
+And since learning is change, learning is hard work.
 
-We must keep this in mind when we design courses and individual teaching sessions (see [Chapter 7](designing-course.qmd)).
-A teacher can max out students' cognitive load by covering too much material in a single session.
-And maxed-out students may be less willing to trust this teacher and thus less willing to take risks (see [Chapter 6](interact-w-students.qmd)).
+Further, learning deeply is harder work than learning superficially.
+For this reason, students' learning is often superficial.
+Superficial learning is characterised by just "kluging" new information on top of old information, rather than interrogating or modifying that old information in light of the new.
+Like hermit crabs, what changes is the shell, not what's inside.
+This kluging behaviour is especially apparent when the new information conflicts with what students learned before.
+In such scenarios, teachers must be prepared to prompt their students to go deeper.
 
-We must also keep in mind that learning is hard work when we introduce new information that conflicts with old information.
 Take, for example, the grade 11 physics curriculum in Alberta.
-Before grade 11, students had been learning about physical systems in terms of friction. 
-But grade 11 brings a paradigm shift: systems are now described without friction. **[CORRECTNESS/PHRASING?]**
+Before grade 11, students had been learning about physical systems in terms of friction.
+But grade 11 brings a paradigm shift: systems are now analysed without friction. **[CORRECTNESS/PHRASING?]**
 
-To successfully make this switch, students need to update their worldview and develop a new common sense.
-But this takes lots of energy!
-In Laura's experience, students struggle to integrate information that goes against what they had learned before.
-Students ask things like, "Do you want me to tell you what I think, or what you told me yesterday?"
+To successfully navigate this paradigm shift, students need to update their worldview and develop a new common sense about physical systems.
+And this takes energy.
+Students reveal that they're not investing that energy, that instead they're superficially kluging ideas onto one another, when they ask things like, "Do you want me to tell you what I think, or what you told me yesterday?"
 
-Questions like this indicate superficial learning: independent bits are kluged on to one another, and little attempt is made to modify one's existing understanding.
-Laura likens the behaviour to a hermit crab: what changes is the shell, not what's inside.
+So how can we help students to go deeper, to update their worldviews in light of new, conflicting information?
 
-To foreshadow [Chapter 5](learning-by-doing.qmd): How do we help students update their worldviews in light of new, conflicting information?
+We can prompt students to make predictions, and let their predictions fail.
 
-We prompt students to make predictions, and let their predictions fail.
-
-Predictions reveal what students believe about how a system works.
-To produce a prediction, students need to recognise and commit to those beliefs.
-And they see that their belief needs to be modified if their prediction falls flat.
-The prediction activity is valuable because learners must recognise and commit to their beliefs to be able to actively modify them.
+Predictions reveal what students believe about how the world works.
+To produce a prediction, students need to recognise and commit to their beliefs.
+And if their prediction falls flat, they'll see that their belief needs to be modified.
+People must commit to a belief before that belief can be updated.
 
 Making and evaluating predictions is one kind of "learning by doing".
-[In the next chapter](learning-by-doing.qmd), we explore more activities that help students learn.
+[In the next section](learning-by-doing.qmd), we explore more activities that help students learn.
 

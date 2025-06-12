@@ -1,7 +1,7 @@
-# Interacting with students
+# Interacting with students {#sec-interact-w-students}
 
-The learner is the centre of everything we do.
-Our work should serve them, not us.
+The student is at the centre of everything we do.
+Our work must serve them, not us.
 
 ## Respect students
 
