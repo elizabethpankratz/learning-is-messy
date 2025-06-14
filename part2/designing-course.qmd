@@ -1,41 +1,39 @@
 # Designing a course {#sec-designing-course}
 
+
 ## Know the purpose
 
-[In the last chapter](interact-w-students.qmd), we advised you to know the purpose of every question you ask.
-The same principle holds at the level of course design: know the purpose of every piece of material you incorporate.
+In [Section @sec-interact-w-students], we advised you to know the purpose of every question you ask.
+The same principle holds at the level of course design: know the purpose of every piece of material you include.
 
-Students should have good, real reasons to learn the material.
-And once you've chosen your material intentionally, students can grouse, "Why should I learn this?" and you will have a good answer.
-("Because you need it for the test" should never pass your lips!)
+Intentionally curating what goes into your course—and then telling students why you included each concept—will help motivate students to learn the material for reasons beyond "I need this for the test."
 
-And as we mentioned back in [Section @sec-learning-takes-energy], learning takes energy.
-
-A teacher can max out students' cognitive load by covering too much material in a single session.
-And maxed-out students may be less willing to engage and take risks.
-We'll discuss how to promote risk-taking by fostering a relationship of trust between student and teacher in [Section @sec-interact-w-students].
-
-That said, only including the core information that can be motivated can help to keep the cognitive overhead low and the amount of content you need to cover restricted to the key pieces.
+<!-- And if you run the risk of covering too much material, being very intentional about what you include might help you narrow it down. -->
+<!-- A teacher can max out students' cognitive load by covering too much material in a single session. -->
+<!-- And maxed-out students may be less willing to engage and take risks. -->
+<!-- We'll discuss how to promote risk-taking by fostering a relationship of trust between student and teacher in [Section @sec-interact-w-students]. -->
+<!-- That said, only including the core information that can be motivated can help to keep the cognitive overhead low and the amount of content you need to cover restricted to the key pieces. -->
 
 
 ## Break down silos
 
-It is common practice to structure a course such that every topic receives its own little box, tidily compartmentalised away from the other boxes.
-This way, teachers and students can finish up with one topic, close that box, and move on to the next one.
-This practice is sometimes called siloing.
+Courses tend to be organised into units.
+Each unit gets its own box, and the material in that box is tidily compartmentalised away from the material in other boxes.
+When each unit is finished, that box is closed up, and students and teacher move on to the next one.
+Laura calls this practice "siloing".
 
-Though it's common, siloing is not good practice.
-With each topic handled separately, learners cannot forge robust connections between ideas and build out their mental network of conceptual links—one of the most important tasks in deepening their understanding [@AmbroseEtAl2010; @BiggsCollis1982].
-Keeping each topic's box open is a harder cognitive task, but it's a better education.
+Siloing is a common way to organise a course, but it's not a good way.
+When the material in each unit is handled separately, learners cannot forge robust connections between ideas and build out their mental network of conceptual links—one of the most important tasks in deepening their understanding [@AmbroseEtAl2010; @BiggsCollis1982].
+Keeping all the boxes open, even after the units are past, is a harder cognitive task, but it's a better education.
 
 To avoid siloing, two methods that teachers can use are interleaving material and what Laura calls Velcro teaching.
 
 
 ### Interleaving
 
-Interleaving refers to switching between topics within some span of time, rather than focusing only on one topic and then moving on to the next.
+Rather than focusing only on one topic, discussing it exhaustively, and then moving on to the next one with no back-reference to earlier ideas, interleaving refers to switching back and forth between topics.
 
-Unlike a silo structure such as
+So, unlike a silo structure such as
 
 - Day 1: Topic A
 - Day 2: Topic A
@@ -52,37 +50,43 @@ an interleaved structure might be
 Returning to Topic A after Topic B has been opened invites learners to draw connections between A and B that they may otherwise have missed.
 
 Interleaving has been shown to strengthen learning and aid retention [@BrownEtAl2014].
-It's cognitively harder work for both student and teacher, but it leads to better learning long-term.
+It's cognitively harder work for both student and teacher, but it improves learning long-term.
 
 
 ### Velcro teaching
 
 Velcro teaching is Laura's term for the process of explicitly drawing connections between material in different sections of a course.
-You might set the hook forward ("next week, we'll hear more about X"), and if you do, you'll have to deliver ("like I promised last week, we're going to talk more about X").
-We've been setting hooks in this text, too, every time we say "We'll talk more about X in Chapter Y".
-For example, in [Chapter 2](../part1/learning-taxonomies.qmd) when we set the hook forward about all the places the SOLO taxonomy will reappear throughout this text.
+You set the hook forward ("next week, we'll hear more about X") and then deliver on that hook ("like I promised last week, we're going to talk more about X").
+We've been setting hooks in this text, too, for example back in [Section @sec-learning-taxonomies], when we mentioned all the places the SOLO taxonomy will reappear.
 
-Velcro teaching requires that you know your material at least a week ahead of time, and that you also have a solid understanding of how the topics in your course fit together.
-This level of understanding can be difficult to attain the first couple times through a course.
-Give yourself grace!
-Sometimes just making it through the week is enough.
+Velcro teaching requires you to
 
-But the goal of velcro teaching is to help students keep the boxes of each topic open and to prepare them for making the connections that you think are important.
+- know your material at least a week ahead of time, so that you can set hooks forward, and
+- understand the range of ways in which the topics in your course can be linked together.
+
+The first couple times through a course, this level of understanding can be hard to reach.
+So give yourself grace—early on, making it through the week is enough.
+Even if it's not every session, any hook that is set and delivered on can help students forge important connections between ideas.
 
 
 ## Transparency about structure
 
-Whatever the structure of your course, tell your students about what you have planned as early as possible.
-Telling people what to expect before they experience it is called "pre-organising", and novice learners and the average person function well in a pre-organised structure.
-So telling students what is to come can help get them on board.
-("Post-organising"—giving people an experience and then putting a structure over it in retrospect—is better-suited for more masterful learners, because they're more comfortable juggling several live ideas at a time.)
+However you choose to structure your course, tell students as early as possible what they should expect.
+Telling people what's coming before they experience it is called "pre-organising".
+Novice learners and the average person function well in a pre-organised environment.
+So being transparent about what you have planned and how it should all fit together *in advance* can help get students on board.
 
-Transparency about structure also applies at the level of an individual lesson.
-At the beginning of a lesson, give students an outline of what they can expect from that session, and importantly, check off topics from the outline as they're accomplished.
+The alternative to pre-organising is post-organising: giving people an experience and then helping them put a structure over it in retrospect.
+Post-organising is better-suited for more masterful learners, people who are more comfortable juggling several live ideas at once.
+
+Transparency about structure also applies at the level of individual lessons.
+At the beginning of a lesson, give students an outline of what they can expect from that session.
+And importantly, check off topics from the outline as they're accomplished.
 The goal is for everybody to be able to tell where they are in the day's schedule, even if (when) their attention falters.
 People should always be able to find a way back in.
 
 ---
 
-In the last several chapters, we have been focusing on the cognitive process of learning, and how we as educators can facilitate it.
-[The next chapter begins Part 3](../part3/more-than-grades.qmd); we pivot to the behavioural outcomes of learning and how we can assess them.
+In the last several sections, we have been focusing on the cognitive process of learning and how we as educators can facilitate it.
+
+In [Section @sec-more-than-grades], we pivot to the behavioural outcomes of learning and how we can assess them.
