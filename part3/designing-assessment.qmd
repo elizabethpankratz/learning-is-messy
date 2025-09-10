@@ -1,13 +1,170 @@
 # Designing an assessment {#sec-designing-assessment}
 
-(whether formative or summative)
+The ideas we'll explore on this page apply to all kinds of assessment, both formative and summative.
+We'll discuss formative assessment further in [Section @sec-formative] and summative assessment in [Section @sec-summative].
 
-Debunk assumption that % correct answers = % material that somebody knows.
 
-An assessment should not penalise a student for a particular mistake more than once.
+## Three principles of assessment design
 
 Assessment should be fair, reliable, and valid.
 
-Assuming the goal of an assessment is to generate a ranking of students, then the task of the test designer is to produce questions that discriminate well between students.
 
-Blueprinting a test using a 2D matrix of content * cognitive level.
+### Fairness
+
+In a fair assessment, the thing that differentiates the high performers from the low performers is their knowledge of the material and ability to extend it, rather than their personal experience or socio-economic status (SES).
+
+Since high ability tends to correlate with better SES (with richer families having the means to educate their children in environments with better student–teacher ratios, for example), a truly fair assessment is hard to create.
+
+One way to make assessments fairer is to phrase questions and tasks plainly and clearly.
+Vocabulary and technical terms covered in the course can be included, but needlessly obscure words can be an obstacle.
+For example, Laura's colleagues found that a question that used the word "annihilate" discriminated not between students who had learned vs. who had not learned, but between students with higher SES vs. lower SES backgrounds.
+
+**[@ Laura: Do you have a source I can link to for the 'annihilate' thing?]**
+
+
+### Reliability
+
+In a reliable assessment, the same construct or knowledge should be measured if the test is applied again.
+This is closely related to the idea in psychology of "test–retest reliability".
+
+**[@ Laura: What are some examples of tests that are not reliable? How do we tell in practice whether a test is/is not reliable?]**
+
+
+### Validity
+
+In a valid assessment, the person doing the assessment is not surprised by the task.
+Under a student-centered view, which we advocate, it's not important whether the *teacher* thinks the assessment is valid.
+What's important is what the student thinks.
+
+The test-taker should be able to say "yes, this is an appropriate way to assess [topic]".
+Even if they can't accomplish the task, it's not the task's fault.
+
+When we write assessments that ask students to extend known ideas, they might experience this as a threat to validity.
+We can be transparent about this threat by telling students that they will be extending ideas in a way that might challenge them, but that they have the tools to do so.
+This can help students still feel like the assessment covers tasks that are related to what they've learned.
+
+
+## What makes an assessment good?
+
+What makes an assessment good depends on the goal of the assessment.
+
+
+### Goal: To rank students
+
+In the tradition of standardised year-end diploma exams, where much of Laura's career has been spent, the goal of assessment has been to rank students with respect to one another.
+In this scenario, the goal of the test designer is to produce questions that discriminate well between students.
+In other words, the test should be able to tell us what "level of ability" each student has, and statistically distinguish the "good students" from the "poor students".
+
+Laura notes that while this phrasing sounds like the test designers think that students' ability levels are fixed, rather than growable/moldable [@BlackwellEtAl2007; @Dweck2006], this is not the case.
+This phrasing is a side effect of the way that year-end exams produce a snapshot of students' achievement, a cross-section of their learning journey at a single point in time.
+
+To check whether items on a test have done a good job discriminating between students, we have a couple options.
+
+- A sophisticated way is to borrow from Item Response Theory a measure called the "corrected point bi-serial".
+A bi-serial correlation asks: are students who are successful on a given item are also successful at the test overall?
+But being successful on a given item contributes to being successful on the test overall, and this needs to be corrected for.
+So, the corrected point bi-serial takes the result of the given item out of the results of the rest of the test, effectively asking: are students who are successful on a given item successful at the other items too?
+
+- A simpler way to check discrimination is to take the five highest-scoring test papers and the five lowest-scoring test papers and to compare the nature of the responses on each item.
+On items that discriminate well, the responses from the top students should be different from the responses from the bottom students.
+If the responses of both groups of students are the same, then the item does not discriminate between them.
+
+
+### Goal: To measure learning
+
+In a different tradition, the goal of an assessment is to measure what a student has learned, irrespective of what anybody else in the classroom has learned.
+This tradition is sometimes called "mastery grading", but this term is falling out of use because it emphasises mastering a skill when students' focus should rather be on growth and learning, and the term also carries undesirable colonial connotations [@ClarkTalbert2023].
+
+In the context of measuring an individual student's learning, there's no reason to discriminate between high performers and low performers, because discrimination is about comparison.
+But an assessment task should still be able to identify areas of weakness and flag these to the student as areas of further growth.
+The test designer should have a good idea of what skills each task demands and how it would look to demonstrate those skills.
+We'll elaborate on this below when we talk about "blueprinting" an assessment.
+
+
+### The task of the test designer
+
+All in all, we can summarise the task of the test designer in both traditions as follows: to design tasks that can identify successes while still detecting weaknesses.
+
+
+## Blueprinting an assessment
+
+Blueprinting an assessment involves designing an assessment with respect to two dimensions.
+An assessment should test the full range of **content** at the full range of **cognitive levels**.
+In other words, tasks should fully populate a two-dimensional matrix that crosstabulates content with cognitive level.
+
+<!-- The blueprint of an assessment will determine the final distribution of marks. -->
+
+
+### The dimension of content
+
+The content of an assessment depends, naturally, on the course.
+But generally speaking, the tasks need to span the content that the students think it should span (so that the assessment is valid; see above).
+
+Further, and more challengingly: an assessment should not penalise a student for a particular mistake more than once.
+In other words, a particular misunderstanding should not cost students marks in more than one place.
+Achieving this is particularly tricky when writing long tests and multiple-choice tests, because there are more opportunities for similar misconceptions to prompt students to select the wrong choices.
+We'll discuss multiple choice design further in [Section @sec-design-mcq].
+
+
+
+### The dimension of cognitive level
+
+By "cognitive level", we mean the kind of cognition that students need to use in order to succeed at the task.
+In terms of the SOLO taxonomy from [Section @sec-solo], some examples might be:
+
+- **uni-structural**: tasks that require memorisation.
+- **multi-structural**: tasks that require applying a familiar idea in a familiar way.
+- **relational**: tasks that require comparing/contrasting/choosing between familiar ideas.
+- **extended abstract**: tasks that require a familiar idea to be brought into a new situation.
+
+It is not the case that only the advanced, more demanding cognitive levels should be tested.
+Rather, an assessment should test all of these cognitive levels.
+
+Sometimes, a course actually targets low-level cognition.
+For example, as part of Elizabeth's undergraduate degree in linguistics, she had to memorise all of the characters of the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and so she was assessed on this uni-structural knowledge.
+The important question to ask ourself here is: does the cognition of the questions we set match the cognition that we expect students to use?
+
+But even if our course does expect students to use more sophisticated cognition, our assessments should still test the full range of cognitive levels.
+Why?
+Because every assessment should give students at every ability level a chance to succeed.
+By including entry-level questions, even those students who haven't reached the relational or extended abstract cognitive levels yet can still experience some success.
+
+That said, we should also be aware that cognitive level may not always correlate with overall student success.
+
+- For memorisation tasks, the cognition is easy, but success may still be low, because often students just can't be bothered to memorise.
+- For application and comparison tasks, the cognition is middling, and in Laura's experience, success is usually middling too. Students who struggle will usually get these wrong, while stronger students will usually get these right.
+- For synthesis tasks, where familiar ideas have to be applied in new ways, the cognition is hard, and success is consequently usually low. In Laura's experience, success on this kind of task shows you who the hard workers are.
+
+
+### Blueprinting determines the grade distribution
+
+Changing how questions/tasks are allocated across the two-dimensional matrix of content and cognitive level can change the distribution of grades that the assessment is likely to produce.
+
+Consider the following two matrices, (A) and (B), where the number in each cell shows how many questions about the respective topic target the respective cognitive level.
+
+**(A)**
+
+|  | Uni-structural | Multi-structural | Relational | Extended abstract |
+|---|---|---|---|---|
+| **Topic A** | 5 | 3 | 2 | 1 |
+| **Topic B** | 5 | 3 | 2 | 1 |
+| **Topic C** | 5 | 3 | 2 | 1 |
+
+<br>
+
+**(B)**
+
+|  | Uni-structural | Multi-structural | Relational | Extended abstract |
+|---|---|---|---|---|
+| **Topic A** | 1 | 2 | 3 | 5 |
+| **Topic B** | 1 | 2 | 3 | 5 |
+| **Topic C** | 1 | 2 | 3 | 5 |
+
+<br>
+
+(A) contains many more questions at lower cognitive levels than (B), so the assessment summarised in (A) will most likely produce higher grades, on the whole, than the assessment summarised in (B).
+
+These examples are extreme, but they're meant to illustrate the point, not to represent real or good assessments.
+(A) is not intrinsically better or worse than (B).
+What counts as a good assessment in your context depends completely on your goals.
+And what kind of grade distribution you target is just one of the many choices you will make when designing assessments.

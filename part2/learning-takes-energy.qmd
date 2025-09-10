@@ -4,17 +4,18 @@ It is easier to remain in the same state than to change.
 And since learning is change, learning is hard work.
 
 Further, learning deeply is harder work than learning superficially.
-For this reason, students' learning is often superficial.
+This is one reason why students' learning is often superficial.
 Superficial learning is characterised by just "kluging" new information on top of old information, rather than interrogating or modifying that old information in light of the new.
 Like hermit crabs, what changes is the shell, not what's inside.
 This kluging behaviour is especially apparent when the new information conflicts with what students learned before.
 In such scenarios, teachers must be prepared to prompt their students to go deeper.
 
-Take, for example, the grade 11 physics curriculum in Alberta.
-Before grade 11, students had been learning about physical systems in terms of friction.
-But grade 11 brings a paradigm shift: systems are now analysed without friction. **[CORRECTNESS/PHRASING?]**
+Take, for example, the Grade 11 physics curriculum in Alberta, Canada.
+Before Grade 11 (the North American equivalent of the UK's Year 12/Lower Sixth Form), students had been learning about motion in physical systems in terms of friction.
+But Grade 11 brings a paradigm shift: describing motion without considering the effect of friction.
+Students find leaving friction out of the equation to be hugely counter-intuitive because until this point in their education *and* in their real-world experiences, friction has been a major player.
 
-To successfully navigate this paradigm shift, students need to update their worldview and develop a new common sense about physical systems.
+To successfully navigate this paradigm shift, students need to update their worldview and develop a new common sense about motion in physical systems.
 And this takes energy.
 Students reveal that they're not investing that energy, that instead they're superficially kluging ideas onto one another, when they ask things like, "Do you want me to tell you what I think, or what you told me yesterday?"
 
@@ -24,8 +25,8 @@ We can prompt students to make predictions, and let their predictions fail.
 
 Predictions reveal what students believe about how the world works.
 To produce a prediction, students need to recognise and commit to their beliefs.
-And if their prediction falls flat, they'll see that their belief needs to be modified.
-People must commit to a belief before that belief can be updated.
+And if they predict incorrectly, they're well positioned for us to help them see that their belief needs to be modified.
+People must commit to a belief (e.g., by prediction) before that belief can be updated.
 
 Making and evaluating predictions is one kind of "learning by doing".
 [In the next section](learning-by-doing.qmd), we explore more activities that help students learn.

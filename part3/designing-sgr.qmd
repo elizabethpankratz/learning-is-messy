@@ -1,9 +1,48 @@
-# Designing student-generated response tasks
+# Designing student-generated response tasks {#sec-design-sgr}
 
-Can span many possible kinds of response.
+Student-generated response questions (SGRs) span a wide range of possible tasks, from the traditional to the unexpected: 
 
-Harder than multiple choice because it forces production with no clues beyond the prompt.
+- written response (from short answer questions to essays)
+- oral reports
+- discussions
+- Q+A sessions
+- podcasts
+- videos
+- dances
+- sculptures
+- unessays
 
-Standards should differ depending on whether item was produced under duress or not.
 
-Students should be familiar with scoring criteria before and during response.
+## SGRs are harder than multiple choice
+
+Students can succeed on multiple choice questions (MCQs), even if all they can do is *recognise* the correct answer among the incorrect ones.
+The same ability does not allow them to succeed on SGRs, where they need to produce the answer from scratch with no clues beyond the ones in the prompt.
+And it makes sense that this is difficult, considering that "creating" is the pinnacle of Bloom's Taxonomy.
+
+
+## How to design a good SGR question
+
+The design principles discussed previously in [Section @sec-designing-assessment] and [Section @sec-design-mcq] apply here too.
+For example:
+
+- Give entry points for all students, for all cognitive levels.
+- Ensure that students know the task.
+- Make sure the task is a valid ask.
+
+In addition, it can be useful to come up with what a good answer would look like and what a weak answer would look like, and then make sure that the question really could prompt students to produce something like your target answers.
+
+
+
+## Considerations for grading SGRs
+
+These considerations apply to summatively-assessed SGR questions, that is, SGRs that contribute to a student's grade.
+
+- Our standards for assessment should differ depending on whether the student's response was produced under duress or not.
+"Under duress" means, for example, in a timed in-class setting, compared to a longer-term take-home project.
+Standards should be more lenient when students produce something under duress, and they can be stricter for a take-home project.
+
+- Students should be familiar with scoring criteria, rubrics, and expectations before they start generating their response *and* while they are doing so.
+
+In [Section @sec-summative], we'll go into greater depth about considerations around summative assessment.
+But first, in [Section @sec-formative], we'll discuss the possibilities offered by assessing student work formatively.
+

@@ -1,5 +1,33 @@
 # More than grades {#sec-more-than-grades}
 
-Assessment is about checking in on how students are doing in response to a context or a stimulus.
+The way that teachers typically use the word "assessment" has to do with evaluating students' performance, giving them feedback, and usually labelling the work with a grade.
+Our focus on these aspects of assessment is understandable, since we're all operating within a myopically grades-oriented system.
+But if the goal of education is learning (which we argue it is), then assessment can do much more for us than evaluate how students perform.
 
-Assessment should be happening all the time.
+
+Assessment is about more than grades.
+In general, assessment is done to gain new information, for the teacher or for the student.
+<!-- For the student, the information might be: What do I understand, and what do I not understand yet? What skills do I still need to work on? What level of cognition do I have in each of these areas? -->
+
+Assessment is about checking in on how students are doing in response to the context/situation they're in.
+This idea means that assessment applies not just to examination/evaluation scenarios—we also use assessment to learn about what's going on with the student in the moment.
+
+Thus, assessment should be happening all the time.
+For example:
+
+- Reading student body language and learning physical tells: are students tired? bored? distracted? confused?
+  - In particular, learn the tells of your tenth best student. 
+  This student is more likely to reflect, on average, where the class is at, and figuring out their physical tells for confusion will help you pick up on when the class is confused without making anyone feel picked on or singled out.
+- Listening to the kinds of questions that students are asking (see [Section @sec-solo]).
+- If students are off-task, figuring out whether the task is meaningless, or too easy, or too hard.
+
+All of these checks provide useful feedback—new information—to the teacher.
+
+This level of on-your-feet metacognition is really challenging, and it's the mark of an excellent, masterful teacher.
+To be a good teacher, you can be a brilliant presenter with clear materials that engage your students.
+To take that extra step toward excellence, do all of that with the student in mind at every moment—with active metacognitive assessment of the situation.
+
+
+With this important caveat out of the way—that assessment is about more than grades—we'll focus for the rest of this book on how to design assessments of student performance.
+
+

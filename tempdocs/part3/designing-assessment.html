@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -242,7 +262,30 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#three-principles-of-assessment-design" id="toc-three-principles-of-assessment-design" class="nav-link active" data-scroll-target="#three-principles-of-assessment-design"><span class="header-section-number">9.1</span> Three principles of assessment design</a>
+  <ul class="collapse">
+  <li><a href="#fairness" id="toc-fairness" class="nav-link" data-scroll-target="#fairness"><span class="header-section-number">9.1.1</span> Fairness</a></li>
+  <li><a href="#reliability" id="toc-reliability" class="nav-link" data-scroll-target="#reliability"><span class="header-section-number">9.1.2</span> Reliability</a></li>
+  <li><a href="#validity" id="toc-validity" class="nav-link" data-scroll-target="#validity"><span class="header-section-number">9.1.3</span> Validity</a></li>
+  </ul></li>
+  <li><a href="#what-makes-an-assessment-good" id="toc-what-makes-an-assessment-good" class="nav-link" data-scroll-target="#what-makes-an-assessment-good"><span class="header-section-number">9.2</span> What makes an assessment good?</a>
+  <ul class="collapse">
+  <li><a href="#goal-to-rank-students" id="toc-goal-to-rank-students" class="nav-link" data-scroll-target="#goal-to-rank-students"><span class="header-section-number">9.2.1</span> Goal: To rank students</a></li>
+  <li><a href="#goal-to-measure-learning" id="toc-goal-to-measure-learning" class="nav-link" data-scroll-target="#goal-to-measure-learning"><span class="header-section-number">9.2.2</span> Goal: To measure learning</a></li>
+  <li><a href="#the-task-of-the-test-designer" id="toc-the-task-of-the-test-designer" class="nav-link" data-scroll-target="#the-task-of-the-test-designer"><span class="header-section-number">9.2.3</span> The task of the test designer</a></li>
+  </ul></li>
+  <li><a href="#blueprinting-an-assessment" id="toc-blueprinting-an-assessment" class="nav-link" data-scroll-target="#blueprinting-an-assessment"><span class="header-section-number">9.3</span> Blueprinting an assessment</a>
+  <ul class="collapse">
+  <li><a href="#the-dimension-of-content" id="toc-the-dimension-of-content" class="nav-link" data-scroll-target="#the-dimension-of-content"><span class="header-section-number">9.3.1</span> The dimension of content</a></li>
+  <li><a href="#the-dimension-of-cognitive-level" id="toc-the-dimension-of-cognitive-level" class="nav-link" data-scroll-target="#the-dimension-of-cognitive-level"><span class="header-section-number">9.3.2</span> The dimension of cognitive level</a></li>
+  <li><a href="#blueprinting-determines-the-grade-distribution" id="toc-blueprinting-determines-the-grade-distribution" class="nav-link" data-scroll-target="#blueprinting-determines-the-grade-distribution"><span class="header-section-number">9.3.3</span> Blueprinting determines the grade distribution</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -266,14 +309,189 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>(whether formative or summative)</p>
-<p>Debunk assumption that % correct answers = % material that somebody knows.</p>
-<p>An assessment should not penalise a student for a particular mistake more than once.</p>
+<p>The ideas we’ll explore on this page apply to all kinds of assessment, both formative and summative. We’ll discuss formative assessment further in <a href="formative.html" class="quarto-xref">Section&nbsp;<span>13</span></a> and summative assessment in <a href="summative.html" class="quarto-xref">Section&nbsp;<span>14</span></a>.</p>
+<section id="three-principles-of-assessment-design" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="three-principles-of-assessment-design"><span class="header-section-number">9.1</span> Three principles of assessment design</h2>
 <p>Assessment should be fair, reliable, and valid.</p>
-<p>Assuming the goal of an assessment is to generate a ranking of students, then the task of the test designer is to produce questions that discriminate well between students.</p>
-<p>Blueprinting a test using a 2D matrix of content * cognitive level.</p>
+<section id="fairness" class="level3" data-number="9.1.1">
+<h3 data-number="9.1.1" class="anchored" data-anchor-id="fairness"><span class="header-section-number">9.1.1</span> Fairness</h3>
+<p>In a fair assessment, the thing that differentiates the high performers from the low performers is their knowledge of the material and ability to extend it, rather than their personal experience or socio-economic status (SES).</p>
+<p>Since high ability tends to correlate with better SES (with richer families having the means to educate their children in environments with better student–teacher ratios, for example), a truly fair assessment is hard to create.</p>
+<p>One way to make assessments fairer is to phrase questions and tasks plainly and clearly. Vocabulary and technical terms covered in the course can be included, but needlessly obscure words can be an obstacle. For example, Laura’s colleagues found that a question that used the word “annihilate” discriminated not between students who had learned vs.&nbsp;who had not learned, but between students with higher SES vs.&nbsp;lower SES backgrounds.</p>
+<p><strong>[@ Laura: Do you have a source I can link to for the ‘annihilate’ thing?]</strong></p>
+</section>
+<section id="reliability" class="level3" data-number="9.1.2">
+<h3 data-number="9.1.2" class="anchored" data-anchor-id="reliability"><span class="header-section-number">9.1.2</span> Reliability</h3>
+<p>In a reliable assessment, the same construct or knowledge should be measured if the test is applied again. This is closely related to the idea in psychology of “test–retest reliability”.</p>
+<p><strong>[@ Laura: What are some examples of tests that are not reliable? How do we tell in practice whether a test is/is not reliable?]</strong></p>
+</section>
+<section id="validity" class="level3" data-number="9.1.3">
+<h3 data-number="9.1.3" class="anchored" data-anchor-id="validity"><span class="header-section-number">9.1.3</span> Validity</h3>
+<p>In a valid assessment, the person doing the assessment is not surprised by the task. Under a student-centered view, which we advocate, it’s not important whether the <em>teacher</em> thinks the assessment is valid. What’s important is what the student thinks.</p>
+<p>The test-taker should be able to say “yes, this is an appropriate way to assess [topic]”. Even if they can’t accomplish the task, it’s not the task’s fault.</p>
+<p>When we write assessments that ask students to extend known ideas, they might experience this as a threat to validity. We can be transparent about this threat by telling students that they will be extending ideas in a way that might challenge them, but that they have the tools to do so. This can help students still feel like the assessment covers tasks that are related to what they’ve learned.</p>
+</section>
+</section>
+<section id="what-makes-an-assessment-good" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="what-makes-an-assessment-good"><span class="header-section-number">9.2</span> What makes an assessment good?</h2>
+<p>What makes an assessment good depends on the goal of the assessment.</p>
+<section id="goal-to-rank-students" class="level3" data-number="9.2.1">
+<h3 data-number="9.2.1" class="anchored" data-anchor-id="goal-to-rank-students"><span class="header-section-number">9.2.1</span> Goal: To rank students</h3>
+<p>In the tradition of standardised year-end diploma exams, where much of Laura’s career has been spent, the goal of assessment has been to rank students with respect to one another. In this scenario, the goal of the test designer is to produce questions that discriminate well between students. In other words, the test should be able to tell us what “level of ability” each student has, and statistically distinguish the “good students” from the “poor students”.</p>
+<p>Laura notes that while this phrasing sounds like the test designers think that students’ ability levels are fixed, rather than growable/moldable <span class="citation" data-cites="BlackwellEtAl2007 Dweck2006">(<a href="../references.html#ref-BlackwellEtAl2007" role="doc-biblioref">Blackwell et al., 2007</a>; <a href="../references.html#ref-Dweck2006" role="doc-biblioref">Dweck, 2006</a>)</span>, this is not the case. This phrasing is a side effect of the way that year-end exams produce a snapshot of students’ achievement, a cross-section of their learning journey at a single point in time.</p>
+<p>To check whether items on a test have done a good job discriminating between students, we have a couple options.</p>
+<ul>
+<li><p>A sophisticated way is to borrow from Item Response Theory a measure called the “corrected point bi-serial”. A bi-serial correlation asks: are students who are successful on a given item are also successful at the test overall? But being successful on a given item contributes to being successful on the test overall, and this needs to be corrected for. So, the corrected point bi-serial takes the result of the given item out of the results of the rest of the test, effectively asking: are students who are successful on a given item successful at the other items too?</p></li>
+<li><p>A simpler way to check discrimination is to take the five highest-scoring test papers and the five lowest-scoring test papers and to compare the nature of the responses on each item. On items that discriminate well, the responses from the top students should be different from the responses from the bottom students. If the responses of both groups of students are the same, then the item does not discriminate between them.</p></li>
+</ul>
+</section>
+<section id="goal-to-measure-learning" class="level3" data-number="9.2.2">
+<h3 data-number="9.2.2" class="anchored" data-anchor-id="goal-to-measure-learning"><span class="header-section-number">9.2.2</span> Goal: To measure learning</h3>
+<p>In a different tradition, the goal of an assessment is to measure what a student has learned, irrespective of what anybody else in the classroom has learned. This tradition is sometimes called “mastery grading”, but this term is falling out of use because it emphasises mastering a skill when students’ focus should rather be on growth and learning, and the term also carries undesirable colonial connotations <span class="citation" data-cites="ClarkTalbert2023">(<a href="../references.html#ref-ClarkTalbert2023" role="doc-biblioref">Clark &amp; Talbert, 2023</a>)</span>.</p>
+<p>In the context of measuring an individual student’s learning, there’s no reason to discriminate between high performers and low performers, because discrimination is about comparison. But an assessment task should still be able to identify areas of weakness and flag these to the student as areas of further growth. The test designer should have a good idea of what skills each task demands and how it would look to demonstrate those skills. We’ll elaborate on this below when we talk about “blueprinting” an assessment.</p>
+</section>
+<section id="the-task-of-the-test-designer" class="level3" data-number="9.2.3">
+<h3 data-number="9.2.3" class="anchored" data-anchor-id="the-task-of-the-test-designer"><span class="header-section-number">9.2.3</span> The task of the test designer</h3>
+<p>All in all, we can summarise the task of the test designer in both traditions as follows: to design tasks that can identify successes while still detecting weaknesses.</p>
+</section>
+</section>
+<section id="blueprinting-an-assessment" class="level2" data-number="9.3">
+<h2 data-number="9.3" class="anchored" data-anchor-id="blueprinting-an-assessment"><span class="header-section-number">9.3</span> Blueprinting an assessment</h2>
+<p>Blueprinting an assessment involves designing an assessment with respect to two dimensions. An assessment should test the full range of <strong>content</strong> at the full range of <strong>cognitive levels</strong>. In other words, tasks should fully populate a two-dimensional matrix that crosstabulates content with cognitive level.</p>
+<!-- The blueprint of an assessment will determine the final distribution of marks. -->
+<section id="the-dimension-of-content" class="level3" data-number="9.3.1">
+<h3 data-number="9.3.1" class="anchored" data-anchor-id="the-dimension-of-content"><span class="header-section-number">9.3.1</span> The dimension of content</h3>
+<p>The content of an assessment depends, naturally, on the course. But generally speaking, the tasks need to span the content that the students think it should span (so that the assessment is valid; see above).</p>
+<p>Further, and more challengingly: an assessment should not penalise a student for a particular mistake more than once. In other words, a particular misunderstanding should not cost students marks in more than one place. Achieving this is particularly tricky when writing long tests and multiple-choice tests, because there are more opportunities for similar misconceptions to prompt students to select the wrong choices. We’ll discuss multiple choice design further in <a href="designing-mcq.html" class="quarto-xref">Section&nbsp;<span>11</span></a>.</p>
+</section>
+<section id="the-dimension-of-cognitive-level" class="level3" data-number="9.3.2">
+<h3 data-number="9.3.2" class="anchored" data-anchor-id="the-dimension-of-cognitive-level"><span class="header-section-number">9.3.2</span> The dimension of cognitive level</h3>
+<p>By “cognitive level”, we mean the kind of cognition that students need to use in order to succeed at the task. In terms of the SOLO taxonomy from <a href="../part1/learning-taxonomies.html#sec-solo" class="quarto-xref">Section&nbsp;<span>2.2</span></a>, some examples might be:</p>
+<ul>
+<li><strong>uni-structural</strong>: tasks that require memorisation.</li>
+<li><strong>multi-structural</strong>: tasks that require applying a familiar idea in a familiar way.</li>
+<li><strong>relational</strong>: tasks that require comparing/contrasting/choosing between familiar ideas.</li>
+<li><strong>extended abstract</strong>: tasks that require a familiar idea to be brought into a new situation.</li>
+</ul>
+<p>It is not the case that only the advanced, more demanding cognitive levels should be tested. Rather, an assessment should test all of these cognitive levels.</p>
+<p>Sometimes, a course actually targets low-level cognition. For example, as part of Elizabeth’s undergraduate degree in linguistics, she had to memorise all of the characters of the <a href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet">International Phonetic Alphabet</a>, and so she was assessed on this uni-structural knowledge. The important question to ask ourself here is: does the cognition of the questions we set match the cognition that we expect students to use?</p>
+<p>But even if our course does expect students to use more sophisticated cognition, our assessments should still test the full range of cognitive levels. Why? Because every assessment should give students at every ability level a chance to succeed. By including entry-level questions, even those students who haven’t reached the relational or extended abstract cognitive levels yet can still experience some success.</p>
+<p>That said, we should also be aware that cognitive level may not always correlate with overall student success.</p>
+<ul>
+<li>For memorisation tasks, the cognition is easy, but success may still be low, because often students just can’t be bothered to memorise.</li>
+<li>For application and comparison tasks, the cognition is middling, and in Laura’s experience, success is usually middling too. Students who struggle will usually get these wrong, while stronger students will usually get these right.</li>
+<li>For synthesis tasks, where familiar ideas have to be applied in new ways, the cognition is hard, and success is consequently usually low. In Laura’s experience, success on this kind of task shows you who the hard workers are.</li>
+</ul>
+</section>
+<section id="blueprinting-determines-the-grade-distribution" class="level3" data-number="9.3.3">
+<h3 data-number="9.3.3" class="anchored" data-anchor-id="blueprinting-determines-the-grade-distribution"><span class="header-section-number">9.3.3</span> Blueprinting determines the grade distribution</h3>
+<p>Changing how questions/tasks are allocated across the two-dimensional matrix of content and cognitive level can change the distribution of grades that the assessment is likely to produce.</p>
+<p>Consider the following two matrices, (A) and (B), where the number in each cell shows how many questions about the respective topic target the respective cognitive level.</p>
+<p><strong>(A)</strong></p>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Uni-structural</th>
+<th>Multi-structural</th>
+<th>Relational</th>
+<th>Extended abstract</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Topic A</strong></td>
+<td>5</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td><strong>Topic B</strong></td>
+<td>5</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td><strong>Topic C</strong></td>
+<td>5</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p><strong>(B)</strong></p>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Uni-structural</th>
+<th>Multi-structural</th>
+<th>Relational</th>
+<th>Extended abstract</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Topic A</strong></td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td><strong>Topic B</strong></td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td><strong>Topic C</strong></td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<ol type="A">
+<li>contains many more questions at lower cognitive levels than (B), so the assessment summarised in (A) will most likely produce higher grades, on the whole, than the assessment summarised in (B).</li>
+</ol>
+<p>These examples are extreme, but they’re meant to illustrate the point, not to represent real or good assessments. (A) is not intrinsically better or worse than (B). What counts as a good assessment in your context depends completely on your goals. And what kind of grade distribution you target is just one of the many choices you will make when designing assessments.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-BlackwellEtAl2007" class="csl-entry" role="listitem">
+Blackwell, L. S., Trzesniewski, K. H., &amp; Dweck, C. S. (2007). Implicit <span>Theories</span> of <span>Intelligence Predict Achievement Across</span> an <span>Adolescent Transition</span>: <span>A Longitudinal Study</span> and an <span>Intervention</span>. <em>Child Development</em>, <em>78</em>(1), 246–263. <a href="https://doi.org/10.1111/j.1467-8624.2007.00995.x">https://doi.org/10.1111/j.1467-8624.2007.00995.x</a>
+</div>
+<div id="ref-ClarkTalbert2023" class="csl-entry" role="listitem">
+Clark, D., &amp; Talbert, R. (2023). <em>Grading for growth: A guide to alternative grading practices that promote authentic learning and student engagement in higher education</em>. Routledge.
+</div>
+<div id="ref-Dweck2006" class="csl-entry" role="listitem">
+Dweck, C. S. (2006). <em>Mindset: The new psychology of success</em>. Random house.
+</div>
+</div>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

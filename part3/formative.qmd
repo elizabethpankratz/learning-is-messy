@@ -1,3 +1,56 @@
-# Ideas for formative assessment
+# Ideas for formative assessment {#sec-formative}
 
-Overview of a few possibilities (MC with certainty ratings, peer feedback, responding with colour-coded highlights).
+Formative assessments are assessments that don't count toward students' grades.
+For this reason, students tend to view them as useless busy-work, when really, formative assessment should be a chance for students to get helpful feedback on their learning in a low-stakes way.
+So not only are formative assessments helpful for students who may be struggling—they are also an opportunity for the high fliers to be challenged by new, additional material in a way that won't affect their grades.
+
+In the remainder of this section, we sketch three formative assessment activities that Laura likes and has applied in her teaching practice.
+
+
+## Peer feedback activity
+
+Formative feedback doesn't need to come from the teacher.
+And as we discussed in [Section @sec-learn-by-doing], feedback from peers can sometimes be even more effective.
+
+In this activity, students A and B are paired up.
+
+- Student A writes a response to some prompt.
+- Student B reviews A's response and gives feedback, for example on what cognitive level (see [Section @sec-solo]) A is using.
+- A responds to B's feedback by articulating what changes they are going to make in response.
+- A generates their final response.
+
+(While A is writing their response, B is also writing their own; while B is reviewing A's work, A is reviewing B's; and so on.)
+
+The third step, where A articulates what changes they'll make in response to B's feedback, might feel unnecessary.
+But this step is crucial because often, students who don't articulate their responses to the feedback won't make the changes.
+And explicitly articulating the changes they'll make can help students recognise that feedback indicates areas of potential growth.
+
+
+## Multiple choice with certainty ratings
+
+Give students a series of multiple choice questions (MCQs), but instead of having them select one answer, have them assign percentages to each of the choices, based on how confident they are that that choice is the correct answer.
+This task triggers students' metacognition because it asks them to reflect: did I know this, or was I uncertain?
+
+If students were very confident about a wrong answer, then this is good news!
+It highlights an area where we can do work to improve the student's understanding.
+
+This activity scales well, too: it can easily be implemented in a web-based forms service like Google or Microsoft Forms.
+
+<!-- And if the activity does need to be scored, then one way to do this would be to give students their average % confidence on the questions that they got right. [But how do we know they got the q right, if they aren't selecting a single answer?] -->
+<!-- If they were very confident in their correct answers, then this value is high, but if they were not very confident ... -->
+
+
+
+## Formative responses to student-generated work
+
+It's often laborious to respond with detailed feedback on student-generated written work.
+An alternative that Laura uses is to colour in the margins of the work with three different colours of pen or highlighter.
+Each colour means something different about that section of the text.
+
+- Colour 1: Things are good.
+- Colour 2: Things are going off track.
+- Colour 3: Things are off track.
+
+This method of broad-strokes feedback places the onus on the students to figure out what exactly in their text each colour applies to, and to identify what exactly needs fixing.
+It helps students become reflective and critical of their own work.
+(It also shows visually who was successful, so that students can see which of their peers they might ask for help.)

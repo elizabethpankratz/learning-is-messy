@@ -1,7 +1,83 @@
-# Designing individual questions
+# Designing individual questions {#sec-design-q}
 
-Make sure the question is absolutely clear. Tell students exactly what their task is.
+In this section, we'll share some guidelines that apply to designing any kind of test item.
+Then in the next sections, we'll dive deeper into principles for designing multiple choice questions ([Section @sec-design-mcq]) and student-generated response questions ([Section @sec-design-sgr]).
 
-Ask the question in the format that makes sense for that content.
 
-The right measure for “is a question good” is “does the question discriminate well”, not “do students perform well on the question”.
+
+## What makes an item good?
+
+A good item is clear, accurate, fair, and valid.
+
+
+### Clarity
+
+If you write a question, you know how you intend students to interpret it and what you intend them to do.
+But it is not always the case that students will interpret the question the way you intend.
+
+A good way to test your questions for clarity is to let your inner pedantic smart-aleck run wild.
+Here's a recent example.
+For one of her statistics lectures, Elizabeth was preparing a Predict–Observe–Explain–Observe activity (see @JacksonPankratz2020: [Tools for Teaching Science]((https://resources.perimeterinstitute.ca/products/tools-for-teaching-science))), and before presenting it to students, she ran it by Laura.
+
+Elizabeth had written a few questions for students to think about, along with the following instructions:
+
+- "Predict (individually): Write down your guesses [about the questions].
+- Explain (in pairs/groups): Why did you make those predictions?
+- Observe (individually): Did your guesses match the results?
+- Explain (in pairs/groups): Why are the results the way they are?"
+
+Laura noted that the "Explain" step could be phrased better: "The smart-aleck response to 'Why did you make those predictions' is 'Because you told me to.'"
+
+So Elizabeth updated that phrasing to "Why do you think your guesses are likely to be correct?"
+
+In general, tell students as explicitly as possible exactly what their task is.
+The challenge of a question should come from "How do I do this task?", never from "What is the task?"
+
+
+### Fairness and validity
+
+In [Section @sec-designing-assessment], we introduced fairness and validity as two principles underlying good assessment design.
+These principles also apply at the level of individual items.
+
+- If an item is fair, then it measures students' knowledge, not correlated traits like socio-economic status.
+- If an item is valid, then students see it as a reasonable way to assess a particular topic.
+
+
+### Accuracy
+
+Once a question's clarity, fairness, and validity are established, then the final measure for "Is a question good?" is not "Do students perform well on this question?" but "Do students who learned the material succeed at this question?"
+In other words, does the question accurately measure student learning by discriminating between students who learned the material and those who didn't?
+
+At the level of individual items, discriminating between students who learned and those who didn't is no longer about ranking students.
+We're not comparing students to one another, but to our idea of what they should be able to do.
+We want questions that can accurately detect that learning has occurred.
+
+
+## How do you know if an item is too hard?
+
+An item might be hard because students don't know what it's asking them to do.
+So make sure that the item is phrased clearly, as we mentioned above.
+
+An item might be hard for students who are only applying lower levels of cognition if it doesn't offer entry points at every cognitive level.
+Aim to write questions where even a uni-structural response can still show that a student is thinking in the right direction.
+
+<!-- Questions might also be hard because they've got multiple steps, especially when some steps are harder than others. -->
+<!-- If the first step is hard, then the task is very hard. -->
+<!-- If the first step is easy, then the task is more doable. -->
+<!-- Additionally, if a student gets the question wrong, then you often don't know exactly where along the path they went astray. -->
+
+A rule of thumb from Laura's experience: if you show an item to an expert in the subject matter and they say "Oh, that's a good question!", then it's probably too hard.
+The kind of nuance and subtlety that experts like will exceed the level of most students.
+(Laura allows *one* item that the experts like into each exam.)
+
+
+## Choose item format based on content
+
+Different item formats (e.g., multiple choice, student-generated response) lend themselves to targeting different kinds of content and cognition, and you can capitalise on this by asking questions in whichever format shows you most clearly what you want to know.
+
+For example:
+
+- Because multiple choice questions pit several responses against one another, this format is useful for detecting whether students hold particular misconceptions.
+- Because student-generated responses are more open-ended, this format is useful if you want to see whether students can do a particular task.
+
+In the next two sections, we'll go into much greater depth about multiple choice questions ([Section @sec-design-mcq]) and student-generated response questions ([Section @sec-design-sgr]).

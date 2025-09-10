@@ -1,16 +1,16 @@
 # Interacting with students {#sec-interact-w-students}
 
 The student is at the centre of our work.
-Everything we do must serve them.
+Everything we do should be done to serve them and their learning.
 
 
 ## Respect students
 
-Being a student is a hard, vulnerable thing.
+Being a student is a difficult, vulnerable thing.
 Students deserve our respect.
-Whether or not they're present, it is crucial that we respect our students and the work they invest in learning.
-One of Laura's rules for the marking room is never to put student work on the floor.
-Even if it saves table space, it demeans the product of student labour—not the message that we want to send.
+It is crucial that we respect our students and the work they invest in learning—whether or not they're in the room.
+For example, one of Laura's rules for marking student work is never to put it on the floor.
+Even if that would save table space, it demeans the product of student labour, and we don't want to send that message.
 
 **We must respect students' thinking.**
 
@@ -42,9 +42,10 @@ Laura likes the financial metaphor because teacher equity can also be spent.
 For example, when a teacher writes a hard question or sets a difficult task, it costs them some equity, because it demands that students take a risk.
 Teachers must be intentional about when and how much this equity is spent.
 
-In the marks economy, students' focus is on receiving a high enough number—their focus is not on learning.
+Within our current assessment systems, students' focus is on receiving a high enough number—their focus is not on deep learning.
 Despite this, good teacher equity can motivate students to take risks anyway, and thus to learn, because students trust that they can be successful.
-But the reverse holds, too: if students aren't trying, then that indicates that they don't trust the teacher—that there's insufficient equity to sustain what the teacher is trying to do.
+But the reverse can hold, too.
+If students aren't trying, then that indicates that they might not trust the teacher—that there's insufficient equity to sustain what the teacher is trying to do.
 
 
 ## Welcome questions from students
@@ -68,9 +69,9 @@ Try instead to elicit, for example with Socratic questioning.
 
 ## Socratic questioning {#sec-socratic}
 
-Students find Socratic questioning annoying, but it is very effective.
+Socratic questioning aims to prompt a student's metacognition.
 Not every question directed toward a student qualifies as Socratic: "Why did you do that?" is not a Socratic question.
-Rather, Socratic questions aim to prompt metacognition.
+Students often find Socratic questioning annoying, because they want answers, not more questions—but it is a very effective tool.
 
 A good starting point is often "Can you walk me through your thinking so far?"
 By retracing and articulating what they've done, students will often identify their own missteps.
@@ -85,11 +86,13 @@ If they do, then progress to multi-structural and relational questions, guiding 
 ## Consider the cognitive level of your questions {#sec-cog-level-qs}
 
 When asking any kind of question, we must be aware of what cognitive level our question is targeting and whether students' responses are at that same level.
-(This kind of close listening is also a way of showing students that you respect what you have to say.)
+(This kind of close listening is also a way of showing students that you respect what they have to say.)
 
-If you ask a uni-structural question and get back a uni-structural answer, then you can be happy.
-If you ask a relational question and get back a uni-structural answer, then that's a mismatch that you have to address.
+If you ask a uni-structural question and get back a uni-structural answer, then you can be satisfied.
+If you ask a relational question and get back a uni-structural answer, then that's a mismatch that you may want to, and probably should, address.
 Clarify with the student what kind of response you wanted from them and then try again.
+For example, you might say, "I was looking for a response that related these two ideas together".
+Or you could prompt active listening by asking another student if the given response was at the same cognitive level as the question.
 
 In fact, it's often a good idea to tell students about the SOLO taxonomy, tell them that there are different levels of cognition that they can apply.
 Once students are familiar with these different cognitive levels, then you can have very fruitful metacognitive conversations.

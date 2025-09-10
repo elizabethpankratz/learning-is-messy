@@ -1,9 +1,30 @@
-# Considerations around summative assessment
+# Considerations around summative assessment {#sec-summative}
 
-No more learning after grades are delivered.
+Grades stand in the way of learning.
 
-Dichotomous vs. partial marks.
+Qualitative feedback can produce better learning than numeric grades [@ButlerNisan1987].
 
-Things to think about when building and using scoring rubrics:
+And after a piece of work receives a grade, then no more learning will come from that piece of work.
+There's no point doing a post-mortem session on a graded thing, since no more learning will occur.
+
+
+## Dichotomous vs. partial marks
+
+
+
+
+## Things to think about when designing scoring rubrics
+
+### How many outcome categories?
+
 - n categories maps to ease of pass
+
+
+### How to label outcome categories
+
 - qualitative descriptions should focus on what’s present, not what’s absent
+
+
+### How to sense-check a rubric
+
+

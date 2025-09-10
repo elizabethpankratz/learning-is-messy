@@ -1,18 +1,11 @@
 # Designing a course {#sec-designing-course}
 
-
 ## Know the purpose
 
 In [Section @sec-interact-w-students], we advised you to know the purpose of every question you ask.
 The same principle holds at the level of course design: know the purpose of every piece of material you include.
 
-Intentionally curating what goes into your course—and then telling students why you included each concept—will help motivate students to learn the material for reasons beyond "I need this for the test."
-
-<!-- And if you run the risk of covering too much material, being very intentional about what you include might help you narrow it down. -->
-<!-- A teacher can max out students' cognitive load by covering too much material in a single session. -->
-<!-- And maxed-out students may be less willing to engage and take risks. -->
-<!-- We'll discuss how to promote risk-taking by fostering a relationship of trust between student and teacher in [Section @sec-interact-w-students]. -->
-<!-- That said, only including the core information that can be motivated can help to keep the cognitive overhead low and the amount of content you need to cover restricted to the key pieces. -->
+Intentionally curating what goes into your course—and then telling students why you included each concept—will help motivate students to learn the material for reasons beyond "I need this for the test".
 
 
 ## Break down silos
@@ -31,7 +24,7 @@ To avoid siloing, two methods that teachers can use are interleaving material an
 
 ### Interleaving
 
-Rather than focusing only on one topic, discussing it exhaustively, and then moving on to the next one with no back-reference to earlier ideas, interleaving refers to switching back and forth between topics.
+Rather than focusing only on one topic, discussing it exhaustively, and then moving on to the next one without referring back to earlier ideas, by interleaving, we switch back and forth between topics.
 
 So, unlike a silo structure such as
 
@@ -56,10 +49,14 @@ It's cognitively harder work for both student and teacher, but it improves learn
 ### Velcro teaching
 
 Velcro teaching is Laura's term for the process of explicitly drawing connections between material in different sections of a course.
-You set the hook forward ("next week, we'll hear more about X") and then deliver on that hook ("like I promised last week, we're going to talk more about X").
+You can set the hook forward ("Next week, we'll learn about Y and see how it connects to X") and then deliver on that hook ("Remember X from last week? Here's Y, and now we're going to learn how X and Y connect.").
 We've been setting hooks in this text, too, for example back in [Section @sec-learning-taxonomies], when we mentioned all the places the SOLO taxonomy will reappear.
 
-Velcro teaching requires you to
+Hooks aren't always helpful, though.
+Sometimes setting a hook forward can be dissatisfying, especially when students have no frame of reference for what the topic will be: foreshadowing that "we'll hear more about [confusing unfamiliar jargon] later" can frustrate students in a way similar to "you'll understand when you're older".
+So use your judgement about when providing information up front would offer helpful structure (see below) and when it might just confuse things further.
+
+The practice of drawing connections between older and newer ideas—that is, the practice of Velcro teaching—requires you to
 
 - know your material at least a week ahead of time, so that you can set hooks forward, and
 - understand the range of ways in which the topics in your course can be linked together.
@@ -67,6 +64,7 @@ Velcro teaching requires you to
 The first couple times through a course, this level of understanding can be hard to reach.
 So give yourself grace—early on, making it through the week is enough.
 Even if it's not every session, any hook that is set and delivered on can help students forge important connections between ideas.
+And any time that you can ask students to bring earlier ideas into a new context will challenge them but, ultimately, strengthen their learning.
 
 
 ## Transparency about structure

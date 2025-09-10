@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -242,14 +262,27 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#what-makes-an-item-good" id="toc-what-makes-an-item-good" class="nav-link active" data-scroll-target="#what-makes-an-item-good"><span class="header-section-number">10.1</span> What makes an item good?</a>
+  <ul class="collapse">
+  <li><a href="#clarity" id="toc-clarity" class="nav-link" data-scroll-target="#clarity"><span class="header-section-number">10.1.1</span> Clarity</a></li>
+  <li><a href="#fairness-and-validity" id="toc-fairness-and-validity" class="nav-link" data-scroll-target="#fairness-and-validity"><span class="header-section-number">10.1.2</span> Fairness and validity</a></li>
+  <li><a href="#accuracy" id="toc-accuracy" class="nav-link" data-scroll-target="#accuracy"><span class="header-section-number">10.1.3</span> Accuracy</a></li>
+  </ul></li>
+  <li><a href="#how-do-you-know-if-an-item-is-too-hard" id="toc-how-do-you-know-if-an-item-is-too-hard" class="nav-link" data-scroll-target="#how-do-you-know-if-an-item-is-too-hard"><span class="header-section-number">10.2</span> How do you know if an item is too hard?</a></li>
+  <li><a href="#choose-item-format-based-on-content" id="toc-choose-item-format-based-on-content" class="nav-link" data-scroll-target="#choose-item-format-based-on-content"><span class="header-section-number">10.3</span> Choose item format based on content</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../part3/more-than-grades.html">The behavioural outcomes of learning, and how to assess them</a></li><li class="breadcrumb-item"><a href="../part3/designing-question.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Designing individual questions</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Designing individual questions</span></h1>
+<h1 class="title"><span id="sec-design-q" class="quarto-section-identifier"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Designing individual questions</span></span></h1>
 </div>
 
 
@@ -266,11 +299,66 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Make sure the question is absolutely clear. Tell students exactly what their task is.</p>
-<p>Ask the question in the format that makes sense for that content.</p>
-<p>The right measure for “is a question good” is “does the question discriminate well”, not “do students perform well on the question”.</p>
+<p>In this section, we’ll share some guidelines that apply to designing any kind of test item. Then in the next sections, we’ll dive deeper into principles for designing multiple choice questions (<a href="designing-mcq.html" class="quarto-xref">Section&nbsp;<span>11</span></a>) and student-generated response questions (<a href="designing-sgr.html" class="quarto-xref">Section&nbsp;<span>12</span></a>).</p>
+<section id="what-makes-an-item-good" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="what-makes-an-item-good"><span class="header-section-number">10.1</span> What makes an item good?</h2>
+<p>A good item is clear, accurate, fair, and valid.</p>
+<section id="clarity" class="level3" data-number="10.1.1">
+<h3 data-number="10.1.1" class="anchored" data-anchor-id="clarity"><span class="header-section-number">10.1.1</span> Clarity</h3>
+<p>If you write a question, you know how you intend students to interpret it and what you intend them to do. But it is not always the case that students will interpret the question the way you intend.</p>
+<p>A good way to test your questions for clarity is to let your inner pedantic smart-aleck run wild. Here’s a recent example. For one of her statistics lectures, Elizabeth was preparing a Predict–Observe–Explain–Observe activity (see <span class="citation" data-cites="JacksonPankratz2020">Jackson &amp; Pankratz (<a href="../references.html#ref-JacksonPankratz2020" role="doc-biblioref">2020</a>)</span>: <a href="(https://resources.perimeterinstitute.ca/products/tools-for-teaching-science)">Tools for Teaching Science</a>), and before presenting it to students, she ran it by Laura.</p>
+<p>Elizabeth had written a few questions for students to think about, along with the following instructions:</p>
+<ul>
+<li>“Predict (individually): Write down your guesses [about the questions].</li>
+<li>Explain (in pairs/groups): Why did you make those predictions?</li>
+<li>Observe (individually): Did your guesses match the results?</li>
+<li>Explain (in pairs/groups): Why are the results the way they are?”</li>
+</ul>
+<p>Laura noted that the “Explain” step could be phrased better: “The smart-aleck response to ‘Why did you make those predictions’ is ‘Because you told me to.’”</p>
+<p>So Elizabeth updated that phrasing to “Why do you think your guesses are likely to be correct?”</p>
+<p>In general, tell students as explicitly as possible exactly what their task is. The challenge of a question should come from “How do I do this task?”, never from “What is the task?”</p>
+</section>
+<section id="fairness-and-validity" class="level3" data-number="10.1.2">
+<h3 data-number="10.1.2" class="anchored" data-anchor-id="fairness-and-validity"><span class="header-section-number">10.1.2</span> Fairness and validity</h3>
+<p>In <a href="designing-assessment.html" class="quarto-xref">Section&nbsp;<span>9</span></a>, we introduced fairness and validity as two principles underlying good assessment design. These principles also apply at the level of individual items.</p>
+<ul>
+<li>If an item is fair, then it measures students’ knowledge, not correlated traits like socio-economic status.</li>
+<li>If an item is valid, then students see it as a reasonable way to assess a particular topic.</li>
+</ul>
+</section>
+<section id="accuracy" class="level3" data-number="10.1.3">
+<h3 data-number="10.1.3" class="anchored" data-anchor-id="accuracy"><span class="header-section-number">10.1.3</span> Accuracy</h3>
+<p>Once a question’s clarity, fairness, and validity are established, then the final measure for “Is a question good?” is not “Do students perform well on this question?” but “Do students who learned the material succeed at this question?” In other words, does the question accurately measure student learning by discriminating between students who learned the material and those who didn’t?</p>
+<p>At the level of individual items, discriminating between students who learned and those who didn’t is no longer about ranking students. We’re not comparing students to one another, but to our idea of what they should be able to do. We want questions that can accurately detect that learning has occurred.</p>
+</section>
+</section>
+<section id="how-do-you-know-if-an-item-is-too-hard" class="level2" data-number="10.2">
+<h2 data-number="10.2" class="anchored" data-anchor-id="how-do-you-know-if-an-item-is-too-hard"><span class="header-section-number">10.2</span> How do you know if an item is too hard?</h2>
+<p>An item might be hard because students don’t know what it’s asking them to do. So make sure that the item is phrased clearly, as we mentioned above.</p>
+<p>An item might be hard for students who are only applying lower levels of cognition if it doesn’t offer entry points at every cognitive level. Aim to write questions where even a uni-structural response can still show that a student is thinking in the right direction.</p>
+<!-- Questions might also be hard because they've got multiple steps, especially when some steps are harder than others. -->
+<!-- If the first step is hard, then the task is very hard. -->
+<!-- If the first step is easy, then the task is more doable. -->
+<!-- Additionally, if a student gets the question wrong, then you often don't know exactly where along the path they went astray. -->
+<p>A rule of thumb from Laura’s experience: if you show an item to an expert in the subject matter and they say “Oh, that’s a good question!”, then it’s probably too hard. The kind of nuance and subtlety that experts like will exceed the level of most students. (Laura allows <em>one</em> item that the experts like into each exam.)</p>
+</section>
+<section id="choose-item-format-based-on-content" class="level2" data-number="10.3">
+<h2 data-number="10.3" class="anchored" data-anchor-id="choose-item-format-based-on-content"><span class="header-section-number">10.3</span> Choose item format based on content</h2>
+<p>Different item formats (e.g., multiple choice, student-generated response) lend themselves to targeting different kinds of content and cognition, and you can capitalise on this by asking questions in whichever format shows you most clearly what you want to know.</p>
+<p>For example:</p>
+<ul>
+<li>Because multiple choice questions pit several responses against one another, this format is useful for detecting whether students hold particular misconceptions.</li>
+<li>Because student-generated responses are more open-ended, this format is useful if you want to see whether students can do a particular task.</li>
+</ul>
+<p>In the next two sections, we’ll go into much greater depth about multiple choice questions (<a href="designing-mcq.html" class="quarto-xref">Section&nbsp;<span>11</span></a>) and student-generated response questions (<a href="designing-sgr.html" class="quarto-xref">Section&nbsp;<span>12</span></a>).</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-JacksonPankratz2020" class="csl-entry" role="listitem">
+Jackson, S., &amp; Pankratz, L. (2020). <em>Tools for <span>Teaching Science</span></em>. Perimeter Institute for Theoretical Physics.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -1,9 +1,76 @@
-# Designing multiple choice questions
+# Designing multiple choice questions {#sec-design-mcq}
 
-Easier than student-generated response (but the consequent higher rate of success doesn’t mean students know more!)
+We'll start by introducing some terms for the anatomy of a multiple choice question (MCQ).
 
-The top students should be able to read the stem, have an answer, and go hunting for that answer.
+Here's an example question:
 
-What MC questions are actually testing is the information that the test-taker draws on to choose between the options.
+:::{.callout-note icon=false appearance="simple"}
+What's the capital city of Canada?
 
-Nod to some item response theory resources on IIC, p diff, etc.
+- [ ] Toronto
+- [ ] Ottawa
+- [ ] Vancouver
+- [ ] Calgary
+:::
+
+In this example, the question "What's the capital city of Canada?" is the **stem**.
+Sometimes the stem may also be called the **prompt**, though "stem" is MCQ-specific and "prompt" is more generic—essays also have prompts, for example.
+
+The four possible responses "Toronto", "Ottawa", "Vancouver", and "Calgary" are the **choices**.
+In the literature, these may also be called **alternatives**, or the right choice may be called the **target** and the wrong choices may be called **distractors**.
+In Laura's view, "distractor" sounds nefarious ("We're not trying to trick the students!"), so here we'll use the more encompassing term of "choice".
+
+
+## MCQs are relatively easy
+
+MCQs are easier to succeed on than student-generated responses are.
+In MCQs, all the options are right there.
+And even if a test-taker didn't know a thing about Canada and chose a city purely at random, they would still correctly choose "Ottawa" one time out of four.
+
+So an exam built solely of MCQs will likely have a higher rate of success than an exam built solely of student-generated responses.
+But this doesn't mean that the students know more.
+It just means that the task is easier.
+
+
+## What are MCQs testing?
+
+MCQs are not testing knowledge *per se*.
+As long as a student can recognise the correct answer, they don't need to actually know it.
+Some people say that that counts as sufficient learning, but Laura doesn't think so.
+
+What MCQs are really testing is what information the test-taker uses to adjudicate between the choices.
+But we can only see the outcome of their decision-making process.
+Each choice matches one way of understanding or approaching the problem (including misconceptions and ways taht are incorrect), and all we can do is infer that the student who chose Choice A is following the intended logic behind that choice.
+If we want to actually definitively know what a student knows, we would need to ask them to generate their response from scratch.
+
+
+## Behaviour elicited by MCQs
+
+Students at different levels tend to behave differently when responding to a MCQ.
+
+- The bottom students will be drawn to a misconception, or they will just guess.
+- The middle students will hunt at the choices, trying to decide which one seems most plausible.
+- The top students will read the stem, have an answer, and check the choices to find that answer.
+
+If the MCQ's stem *doesn't* elicit this behaviour in the top students, then in Laura's experience, that item will often discriminate less well.
+If the top students can't anticipate the answer, they are thrown for a loop, and so they're less likely to succeed at the question.
+
+
+## How many choices should a MCQ have?
+
+According to Item Response Theory, an item is more informative about what a student actually knows, the more choices it has.
+This makes sense: if a question only has two choices, then someone guessing at random will still be right half the time.
+So whether they get the question right or not, we don't know much about what they know.
+As the number of choices goes up, though, the probability of succeeding purely by chance goes down.
+So there should be as many choices as possible.
+
+On the other hand, though, all but one of an item's choices must be plausible but incorrect.
+And coming up with plausible incorrect choices can be a real challenge.
+Choices must be incorrect in different but reasonable ways, and common fillers like "all of the above" and "none of the above" aren't actually all that useful.
+
+- "All of the above" is easy for students to game: as soon as more than one choice is correct, then the correct answer must be "All of the above", and as soon as one choice is incorrect, then the correct answer cannot be "All of the above".
+- "None of the above" doesn't actually tell us anything about what students *do* know, only that they can reject a range of incorrect options.
+
+And in general, students can often answer MCQs correctly by reasoning strategically about the choices provided, rather than calling on any actual content knowledge.
+
+So, deciding on how many choices a MCQ should contain is a matter of balancing the desire for informativeness with the challenge of crafting a large number of plausible incorrect choices.
