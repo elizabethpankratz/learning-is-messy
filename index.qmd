@@ -49,26 +49,35 @@ Her favourite moments are when a student overcomes their wariness of statistics 
 
 
 
-# Acknowledgements
+# Laura's acknowledgements
 
-I, Laura, want to thank ...
+My ideas have formed as a result of conversations with excellent educators, workshops I have attended or presented, and years in high school classrooms or in assessment.
+	
+Listing names means someone won’t get mentioned who should, and if that is you please extend grace! 
 
-I, Elizabeth, want to thank Laura!
-Growing up as Laura's daughter led me to believe that many aspects of good teaching were simple common sense that everybody knew, but nope—I was just blessed to have an amazing pedagogue for a mother.
+I have deep and abiding appreciation for Jack, Steve, Jeff, Dion, Kristian, Erin, Jason, Shane, Stan, Shannon, Bill, Dave 1, Dave 2, and Lawrence. 
+
+For the dear friends who have listened to endless rants about education or who have engaged in their own rants, much love to Al and Kristina. 
+
+Separate mention of my two years as Teacher-in-Residence and the more than 10 years as a teacher network regional coordinator for the Perimeter Institute for Theoretical Physics is necessary.
+The opportunity to work with teachers across Canada and around the world who are passionate about student learning provided me with energy and an outlet for my needs to learn and to help others learn.
+The people here include Greg, Dave, Kelly, Damian, Sean, Saara, Simon, Nanouk, and Philip. 
+	
+Thank you, ALL, for your years of support, friendship, and professionally challenging conversations.
 
 
 # To cite this work
 
 APA 7:
 
-> Pankratz, L., & Pankratz, E. (2025). Learning is messy, performance is beautiful. [Online book]. <https://elizabethpankratz.github.io/learning-is-messy/>
+> Pankratz, L., & Pankratz, E. (2025). Learning is messy, performance is polished. [Online book]. <https://elizabethpankratz.github.io/learning-is-messy/>
 
 
 BibTeX:
 
 ``` 
 @book{PankratzPankratz2025,
-  title = {Learning is messy, performance is beautiful},
+  title = {Learning is messy, performance is polished},
   author = {Pankratz, Laura and Pankratz, Elizabeth},
   year = {2025},
   publisher = {[Online book]}

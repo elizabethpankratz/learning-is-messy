@@ -1,6 +1,6 @@
 # Considerations around summative assessment {#sec-summative}
 
-Grades stand in the way of learning.
+Grades limit learning.
 
 Qualitative feedback can produce better learning than numeric grades [@ButlerNisan1986].
 

@@ -3,7 +3,7 @@ project:
   output-dir: tempdocs
 
 book:
-  title: "Learning is messy, performance is beautiful"
+  title: "Learning is messy, performance is polished"
   author: "Laura Pankratz and Elizabeth Pankratz"
   date: today
 
@@ -39,6 +39,7 @@ book:
       - part3/formative.qmd
       - part3/summative.qmd
       
+    - conclusion.qmd
     - references.qmd
 
 bibliography: references.bib
