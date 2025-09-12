@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -251,7 +271,8 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#how-many-outcome-categories" id="toc-how-many-outcome-categories" class="nav-link" data-scroll-target="#how-many-outcome-categories"><span class="header-section-number">14.2.1</span> How many outcome categories?</a></li>
   <li><a href="#how-to-label-outcome-categories" id="toc-how-to-label-outcome-categories" class="nav-link" data-scroll-target="#how-to-label-outcome-categories"><span class="header-section-number">14.2.2</span> How to label outcome categories</a></li>
-  <li><a href="#how-to-sense-check-a-rubric" id="toc-how-to-sense-check-a-rubric" class="nav-link" data-scroll-target="#how-to-sense-check-a-rubric"><span class="header-section-number">14.2.3</span> How to sense-check a rubric</a></li>
+  <li><a href="#how-to-describe-achievement-at-each-level" id="toc-how-to-describe-achievement-at-each-level" class="nav-link" data-scroll-target="#how-to-describe-achievement-at-each-level"><span class="header-section-number">14.2.3</span> How to describe achievement at each level</a></li>
+  <li><a href="#how-to-sense-check-a-rubric" id="toc-how-to-sense-check-a-rubric" class="nav-link" data-scroll-target="#how-to-sense-check-a-rubric"><span class="header-section-number">14.2.4</span> How to sense-check a rubric</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -278,28 +299,87 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>No more learning after grades are delivered.</p>
+<p>Grades stand in the way of learning.</p>
+<p>Qualitative feedback can produce better learning than numeric grades <span class="citation" data-cites="ButlerNisan1986">(<a href="../references.html#ref-ButlerNisan1986" role="doc-biblioref">Butler &amp; Nisan, 1986</a>)</span>.</p>
+<p>And after a piece of work receives a grade, then no more learning will come from that piece of work. There’s no point doing a post-mortem session on a graded thing, since no more learning will occur.</p>
 <section id="dichotomous-vs.-partial-marks" class="level2" data-number="14.1">
 <h2 data-number="14.1" class="anchored" data-anchor-id="dichotomous-vs.-partial-marks"><span class="header-section-number">14.1</span> Dichotomous vs.&nbsp;partial marks</h2>
+<p>A dichotomous marking system is one where a response can only either be marked “correct” or “incorrect”. In contrast, in a partial marking system, partial credit can be awarded for partially correct responses.</p>
+<p>In Laura’s view, for student-generated responses, the use of partial marks is absolutely appropriate, because in most student-generated responses, there’s usually something at least partly good. For multiple choice questions, the decision is a bit more complex. Here are some points to keep in mind:</p>
+<ul>
+<li>Studies run by Alberta Education found that allowing partial marks on multiple choice questions improves discrimination between higher performers and lower performers. <strong>[@ Laura: Is there anything we can cite for this result?]</strong></li>
+<li>To implement partial marks for multiple choice questions, the test designer has to decide how much a particular misconception (assumed to be indicated by the student selecting a particular choice) should penalise the student, and they must communicate this to the students.</li>
+<li>Students’ behaviour changes when they know partial marks are involved, compared to when they know the test uses dichotomous marks. That their behaviour changes means that tests do not only measure students’ content knowledge, but also their test-taking savvy and strategy.</li>
+</ul>
 </section>
 <section id="things-to-think-about-when-designing-scoring-rubrics" class="level2" data-number="14.2">
 <h2 data-number="14.2" class="anchored" data-anchor-id="things-to-think-about-when-designing-scoring-rubrics"><span class="header-section-number">14.2</span> Things to think about when designing scoring rubrics</h2>
+<p>Teachers often arrive at final grades for student work by using scoring rubrics: two-dimensional matrices that map certain levels of achievement on certain skills to a numeric grade. But in Laura’s experience, most rubrics could be improved by more thoughtful design and sense-checking. That’s what we’ll focus on in this final section.</p>
 <section id="how-many-outcome-categories" class="level3" data-number="14.2.1">
 <h3 data-number="14.2.1" class="anchored" data-anchor-id="how-many-outcome-categories"><span class="header-section-number">14.2.1</span> How many outcome categories?</h3>
+<p>By “outcome categories”, we mean the scale of levels that students’ responses can achieve (an example from rubrics used in Edinburgh’s Psychology department: “developing”, “proficient”, and “excellent”). Much like changing an assessment blueprint can change the grade distribution (see <a href="designing-assessment.html" class="quarto-xref">Section&nbsp;<span>9</span></a>), changing the number of outcome categories in a rubric can do the same.</p>
+<p>Two examples from Grade 12 courses in Alberta:</p>
 <ul>
-<li>n categories maps to ease of pass</li>
+<li>The general science course grades student-generated responses using a <strong>four</strong>-point scoring rubric.
+<ul>
+<li>1 is failure.</li>
+<li>2, 3, and 4 are degrees of success.</li>
+</ul></li>
+<li>The physics and chemistry courses grades student-generated responses using a <strong>five</strong>-point scoring rubric.
+<ul>
+<li>1 and 2 are degrees of failure.</li>
+<li>3, 4, and 5 are degrees of success.</li>
+</ul></li>
 </ul>
+<p>Both rubrics have three successful outcome categories. But because the physics/chemistry rubric has <em>two</em> failure categories, not just one, students have to produce a better response in physics/chemistry than they would have to in the general science course to avoid a failing grade. In other words, because of the rubric design, passing the general science course is harder than passing the physics/chemistry courses. This is intentional: the goal of the general science course is for students to be able to pass. It was designed to be less challenging than the other, more specialised courses, and rubrics offer a mechanism for implementing this decision.</p>
+<!-- And courses that don't need to produce points and percentages may use a simpler, two-category rubric, with only two outcomes: pass and fail. -->
+<p>There’s no wrong answer here, with respect to the number of categories. Be intentional, and choose what works for your context.</p>
 </section>
 <section id="how-to-label-outcome-categories" class="level3" data-number="14.2.2">
 <h3 data-number="14.2.2" class="anchored" data-anchor-id="how-to-label-outcome-categories"><span class="header-section-number">14.2.2</span> How to label outcome categories</h3>
-<ul>
-<li>qualitative descriptions should focus on what’s present, not what’s absent</li>
-</ul>
+<p>In the example from Psychology at the University of Edinburgh, the outcome categories are labelled “developing”, “proficient”, and “excellent”. And in the examples from Alberta high school courses, the outcome categories are labelled numerically: 1 through 4 or 1 through 5. Whether to use verbal descriptions or numbers to label the categories varies by discipline, and there is no right or wrong here.</p>
+<p>If verbal descriptions are used, then they should focus on what qualities of the response are present, not what are missing. This principle applies not just to labelling outcome categories, but also to any verbal description of achievement at each outcome level, as we’ll discuss next.</p>
 </section>
-<section id="how-to-sense-check-a-rubric" class="level3" data-number="14.2.3">
-<h3 data-number="14.2.3" class="anchored" data-anchor-id="how-to-sense-check-a-rubric"><span class="header-section-number">14.2.3</span> How to sense-check a rubric</h3>
+<section id="how-to-describe-achievement-at-each-level" class="level3" data-number="14.2.3">
+<h3 data-number="14.2.3" class="anchored" data-anchor-id="how-to-describe-achievement-at-each-level"><span class="header-section-number">14.2.3</span> How to describe achievement at each level</h3>
+<p>Rubrics should always phrase descriptions in terms of what qualities of the response are present.</p>
+<p><strong>[@ Laura: Do you have a before/after example of how to rephrase a “quality is absent” kind of description?]</strong></p>
+<p>Framing a rubric in terms of what is present, not what’s missing, has a number of benefits:</p>
+<ul>
+<li>It tells students more clearly what their response needs to do.</li>
+<li>It lets us apply the rubric to a wider range of non-traditional assessment formats, such as unessays.</li>
+</ul>
+<p>Describing different levels of achievement only in terms of what is present is a challenge. One way to achieve it is to focus on the nature of the response and the nature of the errors, incorporating the SOLO taxonomy (<a href="../part1/learning-taxonomies.html#sec-solo" class="quarto-xref">Section&nbsp;<span>2.2</span></a>). For instance, imagine the teacher has set a multi-structural task, and received two different kinds of responses:</p>
+<ul>
+<li>One response contains uni-structural answers.</li>
+<li>One response contains multi-structural answers with a few mistakes.</li>
+</ul>
+<p>A rubric that ranks responses by their cognitive level is able to give the multi-structural response the higher score it deserves.</p>
+</section>
+<section id="how-to-sense-check-a-rubric" class="level3" data-number="14.2.4">
+<h3 data-number="14.2.4" class="anchored" data-anchor-id="how-to-sense-check-a-rubric"><span class="header-section-number">14.2.4</span> How to sense-check a rubric</h3>
+<p>Once you have developed a working rubric, test it by letting your inner smart-aleck apply it to a few sample documents.</p>
+<p>The first document should be a blank sheet of paper. It may sound silly, but consider a rubric with statements like:</p>
+<ul>
+<li>“Response does not address the question.” Check! A blank page doesn’t address the question.</li>
+<li>“Response contains no errors.” Check! A blank page contains no errors.</li>
+</ul>
+<p>By this imaginary rubric, the blank page will score extremely high for factualness and extremely low for relevance. But it’s a blank page. A good rubric should not allow a blank page to pass.</p>
+<p>The second document to test should be an irrelevant statement of truth. Laura’s go-to example: “I like cheese.” Again:</p>
+<ul>
+<li>“Response does not address the question.” Check! This statement is irrelevant.</li>
+<li>“Response contains no errors.” Check! Laura does like cheese.</li>
+</ul>
+<p>A good rubric should not allow irrelevant responses to succeed.</p>
+<p>After these basic tests, subsequent documents can be pieces of student work for which you have a sense of the outcome you want them to achieve. Do they perform the way you think they should?</p>
+<p>Tweak, iterate, and repeat until you have rubrics that work the way you want.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-ButlerNisan1986" class="csl-entry" role="listitem">
+Butler, R., &amp; Nisan, M. (1986). Effects of no feedback, task-related comments, and grades on intrinsic motivation and performance. <em>Journal of Educational Psychology</em>, <em>78</em>(3), 210.
+</div>
+</div>
 </section>
 </section>
 

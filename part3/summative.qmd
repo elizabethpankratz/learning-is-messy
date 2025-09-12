@@ -2,7 +2,7 @@
 
 Grades stand in the way of learning.
 
-Qualitative feedback can produce better learning than numeric grades [@ButlerNisan1987].
+Qualitative feedback can produce better learning than numeric grades [@ButlerNisan1986].
 
 And after a piece of work receives a grade, then no more learning will come from that piece of work.
 There's no point doing a post-mortem session on a graded thing, since no more learning will occur.
@@ -10,21 +10,108 @@ There's no point doing a post-mortem session on a graded thing, since no more le
 
 ## Dichotomous vs. partial marks
 
+A dichotomous marking system is one where a response can only either be marked "correct" or "incorrect".
+In contrast, in a partial marking system, partial credit can be awarded for partially correct responses.
 
+In Laura's view, for student-generated responses, the use of partial marks is absolutely appropriate, because in most student-generated responses, there's usually something at least partly good.
+For multiple choice questions, the decision is a bit more complex.
+Here are some points to keep in mind:
+
+- Studies run by Alberta Education found that allowing partial marks on multiple choice questions improves discrimination between higher performers and lower performers. **[@ Laura: Is there anything we can cite for this result?]**
+- To implement partial marks for multiple choice questions, the test designer has to decide how much a particular misconception (assumed to be indicated by the student selecting a particular choice) should penalise the student, and they must communicate this to the students. 
+- Students' behaviour changes when they know partial marks are involved, compared to when they know the test uses dichotomous marks. That their behaviour changes means that tests do not only measure students' content knowledge, but also their test-taking savvy and strategy.
 
 
 ## Things to think about when designing scoring rubrics
 
+Teachers often arrive at final grades for student work by using scoring rubrics: two-dimensional matrices that map certain levels of achievement on certain skills to a numeric grade.
+But in Laura's experience, most rubrics could be improved by more thoughtful design and sense-checking.
+That's what we'll focus on in this final section.
+
+
 ### How many outcome categories?
 
-- n categories maps to ease of pass
+By "outcome categories", we mean the scale of levels that students' responses can achieve (an example from rubrics used in Edinburgh's Psychology department: "developing", "proficient", and "excellent").
+Much like changing an assessment blueprint can change the grade distribution (see [Section @sec-designing-assessment]), changing the number of outcome categories in a rubric can do the same.
+
+Two examples from Grade 12 courses in Alberta:
+
+- The general science course grades student-generated responses using a **four**-point scoring rubric.
+  - 1 is failure.
+  - 2, 3, and 4 are degrees of success.
+
+- The physics and chemistry courses grades student-generated responses using a **five**-point scoring rubric.
+  - 1 and 2 are degrees of failure.
+  - 3, 4, and 5 are degrees of success.
+  
+Both rubrics have three successful outcome categories.
+But because the physics/chemistry rubric has *two* failure categories, not just one, students have to produce a better response in physics/chemistry than they would have to in the general science course to avoid a failing grade.
+In other words, because of the rubric design, passing the general science course is harder than passing the physics/chemistry courses.
+This is intentional: the goal of the general science course is for students to be able to pass.
+It was designed to be less challenging than the other, more specialised courses, and rubrics offer a mechanism for implementing this decision.
+
+<!-- And courses that don't need to produce points and percentages may use a simpler, two-category rubric, with only two outcomes: pass and fail. -->
+
+There's no wrong answer here, with respect to the number of categories.
+Be intentional, and choose what works for your context.
 
 
 ### How to label outcome categories
 
-- qualitative descriptions should focus on what’s present, not what’s absent
+In the example from Psychology at the University of Edinburgh, the outcome categories are labelled "developing", "proficient", and "excellent".
+And in the examples from Alberta high school courses, the outcome categories are labelled numerically: 1 through 4 or 1 through 5.
+Whether to use verbal descriptions or numbers to label the categories varies by discipline, and there is no right or wrong here.
+
+If verbal descriptions are used, then they should focus on what qualities of the response are present, not what are missing.
+This principle applies not just to labelling outcome categories, but also to any verbal description of achievement at each outcome level, as we'll discuss next.
+
+
+### How to describe achievement at each level
+
+Rubrics should always phrase descriptions in terms of what qualities of the response are present.
+
+**[@ Laura: Do you have a before/after example of how to rephrase a "quality is absent" kind of description?]**
+
+Framing a rubric in terms of what is present, not what's missing, has a number of benefits:
+
+- It tells students more clearly what their response needs to do.
+- It lets us apply the rubric to a wider range of non-traditional assessment formats, such as unessays.
+
+Describing different levels of achievement only in terms of what is present is a challenge.
+One way to achieve it is to focus on the nature of the response and the nature of the errors, incorporating the SOLO taxonomy ([Section @sec-solo]).
+For instance, imagine the teacher has set a multi-structural task, and received two different kinds of responses:
+
+- One response contains uni-structural answers.
+- One response contains multi-structural answers with a few mistakes.
+
+A rubric that ranks responses by their cognitive level is able to give the multi-structural response the higher score it deserves.
 
 
 ### How to sense-check a rubric
 
+Once you have developed a working rubric, test it by letting your inner smart-aleck apply it to a few sample documents.
 
+The first document should be a blank sheet of paper.
+It may sound silly, but consider a rubric with statements like:
+
+- "Response does not address the question." Check! A blank page doesn't address the question.
+- "Response contains no errors." Check! A blank page contains no errors.
+
+By this imaginary rubric, the blank page will score extremely high for factualness and extremely low for relevance.
+But it's a blank page.
+A good rubric should not allow a blank page to pass.
+
+
+The second document to test should be an irrelevant statement of truth.
+Laura's go-to example: "I like cheese."
+Again:
+
+- "Response does not address the question." Check! This statement is irrelevant.
+- "Response contains no errors." Check! Laura does like cheese.
+
+A good rubric should not allow irrelevant true responses to succeed.
+
+After these basic tests, subsequent documents can be pieces of student work for which you have a sense of the outcome you want them to achieve.
+Do they perform the way you think they should?
+
+Tweak, iterate, and repeat until you have positively-phrased rubrics that reflect your desired pass rate.
